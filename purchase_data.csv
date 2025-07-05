@@ -1,0 +1,1001 @@
+customer_id,product_category,purchase_amount,timestamp,date,purchase_diff,month_year,year,matched_product,price_variation
+C001,Electronics,995.74,2023-01-07 14:12:40,2023-01-07,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),991.75
+C001,Beauty,585.25,2023-01-17 06:35:21,2023-01-17,9.0,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",569.25
+C001,Clothing,804.73,2023-01-23 19:59:46,2023-01-23,6.0,2023-01,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,780.74
+C001,Beauty,772.1,2023-02-12 22:40:59,2023-02-12,20.0,2023-02,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",756.1
+C001,Books,360.92,2023-08-11 20:45:28,2023-08-11,179.0,2023-08,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,229.93
+C001,Toys,976.06,2023-11-13 18:02:43,2023-11-13,93.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",952.0699999999999
+C001,Toys,619.35,2023-12-08 04:43:45,2023-12-08,24.0,2023-12,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",595.36
+C001,Beauty,133.68,2024-04-28 10:00:56,2024-04-28,142.0,2024-04,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",117.68
+C001,Sports,371.03,2024-08-07 16:38:58,2024-08-07,101.0,2024-08,2024,Franklin Sports Spin N Putt Golf Game,323.34999999999997
+C001,Beauty,117.72,2024-08-19 13:01:50,2024-08-19,11.0,2024-08,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",101.72
+C001,Clothing,762.08,2024-11-25 12:03:57,2024-11-25,97.0,2024-11,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,738.09
+C001,Toys,427.2,2024-11-30 14:52:02,2024-11-30,5.0,2024-11,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",403.21
+C002,Beauty,850.86,2023-05-08 13:46:35,2023-05-08,,2023-05,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",834.86
+C002,Books,859.69,2023-07-24 23:06:43,2023-07-24,77.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,728.7
+C002,Clothing,562.8,2024-11-11 22:23:26,2024-11-11,475.0,2024-11,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,538.81
+C002,Sports,87.0,2024-11-26 21:46:27,2024-11-26,14.0,2024-11,2024,Franklin Sports Spin N Putt Golf Game,39.32
+C003,Home Appliances,83.89,2023-01-19 15:32:52,2023-01-19,,2023-01,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-108.55999999999999
+C003,Toys,878.12,2023-05-01 20:33:14,2023-05-01,102.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",854.13
+C003,Home Appliances,723.19,2023-05-18 02:57:14,2023-05-18,16.0,2023-05,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",530.74
+C003,Home Appliances,948.56,2023-07-13 18:49:03,2023-07-13,56.0,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",756.1099999999999
+C003,Toys,421.5,2023-07-21 09:32:50,2023-07-21,7.0,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",397.51
+C003,Home Appliances,189.93,2023-08-22 10:59:41,2023-08-22,32.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-2.519999999999982
+C003,Sports,521.94,2024-03-06 20:24:18,2024-03-06,197.0,2024-03,2024,Franklin Sports Spin N Putt Golf Game,474.26000000000005
+C003,Sports,726.22,2024-04-06 14:15:04,2024-04-06,30.0,2024-04,2024,Franklin Sports Spin N Putt Golf Game,678.5400000000001
+C003,Sports,239.29,2024-06-14 13:51:49,2024-06-14,68.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,191.60999999999999
+C003,Clothing,423.69,2024-07-11 17:10:42,2024-07-11,27.0,2024-07,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,399.7
+C003,Electronics,169.68,2024-08-02 22:53:40,2024-08-02,22.0,2024-08,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),165.69
+C003,Electronics,111.74,2024-11-19 00:49:52,2024-11-19,108.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),107.75
+C003,Toys,567.53,2024-11-22 19:18:10,2024-11-22,3.0,2024-11,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",543.54
+C004,Clothing,673.18,2023-01-26 03:40:18,2023-01-26,,2023-01,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,649.1899999999999
+C004,Clothing,72.53,2023-03-06 12:21:11,2023-03-06,39.0,2023-03,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,48.540000000000006
+C004,Toys,35.81,2023-03-29 16:40:02,2023-03-29,23.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",11.820000000000004
+C004,Home Appliances,660.3,2023-05-26 16:26:35,2023-05-26,57.0,2023-05,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",467.84999999999997
+C004,Beauty,522.21,2023-06-30 02:37:08,2023-06-30,34.0,2023-06,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",506.21000000000004
+C004,Sports,538.2,2023-08-16 03:48:51,2023-08-16,47.0,2023-08,2023,Franklin Sports Spin N Putt Golf Game,490.52000000000004
+C004,Electronics,468.22,2024-04-15 09:00:47,2024-04-15,243.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),464.23
+C004,Sports,69.86,2024-05-16 01:57:48,2024-05-16,30.0,2024-05,2024,Franklin Sports Spin N Putt Golf Game,22.18
+C004,Clothing,191.56,2024-07-28 18:53:54,2024-07-28,73.0,2024-07,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,167.57
+C004,Home Appliances,746.98,2024-08-24 01:11:01,2024-08-24,26.0,2024-08,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",554.53
+C004,Beauty,779.78,2024-10-13 11:07:17,2024-10-13,50.0,2024-10,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",763.78
+C005,Beauty,255.98,2023-03-04 11:24:35,2023-03-04,,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",239.98
+C005,Home Appliances,121.43,2023-03-05 14:33:42,2023-03-05,1.0,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-71.01999999999998
+C005,Clothing,539.37,2023-04-06 03:01:56,2023-04-06,31.0,2023-04,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,515.38
+C005,Clothing,438.89,2023-06-29 08:48:15,2023-06-29,84.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,414.9
+C005,Clothing,113.77,2023-07-01 08:56:35,2023-07-01,2.0,2023-07,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,89.78
+C005,Beauty,910.89,2023-07-12 03:46:43,2023-07-12,10.0,2023-07,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",894.89
+C005,Sports,370.34,2023-12-26 01:50:14,2023-12-26,166.0,2023-12,2023,Franklin Sports Spin N Putt Golf Game,322.65999999999997
+C005,Electronics,946.72,2024-06-01 23:34:28,2024-06-01,158.0,2024-06,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),942.73
+C005,Clothing,296.58,2024-06-18 04:08:27,2024-06-18,16.0,2024-06,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,272.59
+C005,Home Appliances,47.38,2024-10-23 01:44:54,2024-10-23,126.0,2024-10,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-145.07
+C006,Electronics,89.73,2023-03-17 20:27:26,2023-03-17,,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),85.74000000000001
+C006,Toys,964.61,2023-04-20 15:28:13,2023-04-20,33.0,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",940.62
+C006,Clothing,730.1,2023-05-12 01:56:33,2023-05-12,21.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,706.11
+C006,Beauty,318.34,2023-07-23 13:01:12,2023-07-23,72.0,2023-07,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",302.34
+C006,Toys,722.85,2023-09-01 04:51:29,2023-09-01,39.0,2023-09,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",698.86
+C006,Toys,954.51,2023-10-01 21:59:47,2023-10-01,30.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",930.52
+C006,Beauty,465.35,2023-12-01 13:15:27,2023-12-01,60.0,2023-12,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",449.35
+C006,Books,795.65,2023-12-09 23:55:48,2023-12-09,8.0,2023-12,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,664.66
+C006,Electronics,486.72,2023-12-27 23:50:21,2023-12-27,17.0,2023-12,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),482.73
+C006,Toys,246.55,2024-01-11 07:45:26,2024-01-11,14.0,2024-01,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",222.56
+C006,Clothing,940.25,2024-04-05 10:10:01,2024-04-05,85.0,2024-04,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,916.26
+C006,Sports,728.19,2024-04-21 09:19:28,2024-04-21,15.0,2024-04,2024,Franklin Sports Spin N Putt Golf Game,680.5100000000001
+C006,Clothing,250.11,2024-07-24 08:55:39,2024-07-24,93.0,2024-07,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,226.12
+C006,Home Appliances,719.99,2024-11-21 09:14:43,2024-11-21,120.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",527.54
+C007,Electronics,164.52,2023-01-14 21:33:32,2023-01-14,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),160.53
+C007,Electronics,100.29,2023-05-04 12:18:46,2023-05-04,109.0,2023-05,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),96.30000000000001
+C007,Toys,454.09,2023-05-22 06:59:05,2023-05-22,17.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",430.09999999999997
+C007,Home Appliances,616.21,2023-06-19 06:51:15,2023-06-19,27.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",423.76000000000005
+C007,Electronics,158.27,2023-11-19 04:15:19,2023-11-19,152.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),154.28
+C007,Sports,860.49,2023-11-24 08:46:04,2023-11-24,5.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,812.8100000000001
+C007,Sports,940.95,2023-11-26 23:22:33,2023-11-26,2.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,893.2700000000001
+C007,Clothing,928.66,2023-12-16 22:01:21,2023-12-16,19.0,2023-12,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,904.67
+C007,Books,184.08,2024-04-09 04:56:58,2024-04-09,114.0,2024-04,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,53.09
+C007,Electronics,680.22,2024-05-10 06:03:08,2024-05-10,31.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),676.23
+C007,Clothing,668.97,2024-05-22 18:44:01,2024-05-22,12.0,2024-05,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,644.98
+C007,Home Appliances,406.86,2024-09-12 15:59:20,2024-09-12,112.0,2024-09,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",214.41000000000003
+C007,Toys,146.89,2024-10-13 04:31:14,2024-10-13,30.0,2024-10,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",122.89999999999999
+C008,Sports,637.39,2023-03-27 21:21:24,2023-03-27,,2023-03,2023,Franklin Sports Spin N Putt Golf Game,589.71
+C008,Toys,182.32,2023-06-30 22:32:35,2023-06-30,95.0,2023-06,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",158.32999999999998
+C008,Home Appliances,878.74,2023-08-05 12:52:28,2023-08-05,35.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",686.29
+C008,Home Appliances,153.57,2023-08-14 04:12:31,2023-08-14,8.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-38.879999999999995
+C008,Toys,301.51,2023-10-14 17:24:04,2023-10-14,61.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",277.52
+C008,Toys,953.24,2023-12-04 03:26:49,2023-12-04,50.0,2023-12,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",929.25
+C008,Sports,437.38,2023-12-14 00:25:46,2023-12-14,9.0,2023-12,2023,Franklin Sports Spin N Putt Golf Game,389.7
+C008,Toys,998.86,2023-12-20 13:42:57,2023-12-20,6.0,2023-12,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",974.87
+C008,Clothing,681.3,2024-01-09 13:53:00,2024-01-09,20.0,2024-01,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,657.31
+C008,Beauty,50.48,2024-02-18 16:31:32,2024-02-18,40.0,2024-02,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",34.48
+C008,Toys,218.42,2024-02-25 05:05:47,2024-02-25,6.0,2024-02,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",194.42999999999998
+C008,Home Appliances,153.57,2024-04-08 03:23:29,2024-04-08,42.0,2024-04,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-38.879999999999995
+C008,Sports,742.09,2024-04-30 18:46:52,2024-04-30,22.0,2024-04,2024,Franklin Sports Spin N Putt Golf Game,694.4100000000001
+C008,Home Appliances,21.07,2024-07-09 23:15:55,2024-07-09,70.0,2024-07,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-171.38
+C008,Home Appliances,265.47,2024-08-19 19:19:39,2024-08-19,40.0,2024-08,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",73.02000000000004
+C008,Electronics,679.78,2024-10-18 06:50:27,2024-10-18,59.0,2024-10,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),675.79
+C008,Sports,595.96,2024-12-11 19:39:43,2024-12-11,54.0,2024-12,2024,Franklin Sports Spin N Putt Golf Game,548.2800000000001
+C009,Electronics,517.69,2023-01-06 14:13:03,2023-01-06,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),513.7
+C009,Books,504.49,2023-02-09 03:35:13,2023-02-09,33.0,2023-02,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,373.5
+C009,Toys,902.41,2023-02-17 12:23:16,2023-02-17,8.0,2023-02,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",878.42
+C009,Electronics,171.07,2023-04-10 03:04:21,2023-04-10,51.0,2023-04,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),167.07999999999998
+C009,Sports,378.95,2023-05-16 19:06:58,2023-05-16,36.0,2023-05,2023,Franklin Sports Spin N Putt Golf Game,331.27
+C009,Toys,829.14,2023-08-07 11:39:08,2023-08-07,82.0,2023-08,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",805.15
+C009,Clothing,943.48,2023-11-07 05:45:43,2023-11-07,91.0,2023-11,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,919.49
+C009,Beauty,122.14,2023-11-23 10:23:30,2023-11-23,16.0,2023-11,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",106.14
+C009,Beauty,373.76,2024-01-10 01:50:24,2024-01-10,47.0,2024-01,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",357.76
+C009,Toys,933.27,2024-05-01 18:20:13,2024-05-01,112.0,2024-05,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",909.28
+C009,Home Appliances,259.34,2024-07-05 01:47:01,2024-07-05,64.0,2024-07,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",66.88999999999999
+C009,Sports,847.72,2024-12-19 11:14:22,2024-12-19,167.0,2024-12,2024,Franklin Sports Spin N Putt Golf Game,800.0400000000001
+C010,Beauty,400.42,2023-01-25 08:51:51,2023-01-25,,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",384.42
+C010,Toys,836.34,2023-05-01 18:48:52,2023-05-01,96.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",812.35
+C010,Sports,118.01,2023-05-20 20:00:49,2023-05-20,19.0,2023-05,2023,Franklin Sports Spin N Putt Golf Game,70.33000000000001
+C010,Books,676.75,2023-08-28 11:17:08,2023-08-28,99.0,2023-08,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,545.76
+C010,Beauty,199.4,2023-09-05 12:57:16,2023-09-05,8.0,2023-09,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",183.4
+C010,Electronics,592.66,2023-11-14 10:22:29,2023-11-14,69.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),588.67
+C010,Home Appliances,92.18,2024-05-11 06:29:14,2024-05-11,178.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-100.26999999999998
+C010,Sports,392.14,2024-06-20 04:32:20,2024-06-20,39.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,344.46
+C010,Beauty,596.31,2024-08-26 15:26:38,2024-08-26,67.0,2024-08,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",580.31
+C011,Clothing,905.83,2023-02-20 23:00:12,2023-02-20,,2023-02,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,881.84
+C011,Clothing,129.17,2023-09-19 16:40:41,2023-09-19,210.0,2023-09,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,105.17999999999999
+C011,Home Appliances,699.82,2023-10-10 12:04:02,2023-10-10,20.0,2023-10,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",507.37000000000006
+C011,Books,13.52,2023-12-14 17:42:05,2023-12-14,65.0,2023-12,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-117.47000000000001
+C011,Electronics,982.18,2024-07-14 19:13:56,2024-07-14,213.0,2024-07,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),978.1899999999999
+C011,Toys,694.8,2024-10-22 17:01:58,2024-10-22,99.0,2024-10,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",670.81
+C011,Home Appliances,202.43,2024-12-15 05:03:15,2024-12-15,53.0,2024-12,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",9.980000000000018
+C012,Books,389.24,2023-01-03 08:53:55,2023-01-03,,2023-01,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,258.25
+C012,Sports,94.35,2023-05-01 23:18:52,2023-05-01,118.0,2023-05,2023,Franklin Sports Spin N Putt Golf Game,46.669999999999995
+C012,Toys,410.45,2024-02-20 15:49:28,2024-02-20,294.0,2024-02,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",386.46
+C012,Home Appliances,89.1,2024-05-27 11:21:27,2024-05-27,96.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-103.35
+C012,Beauty,503.13,2024-08-03 09:29:31,2024-08-03,67.0,2024-08,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",487.13
+C012,Home Appliances,397.93,2024-10-08 11:59:54,2024-10-08,66.0,2024-10,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",205.48000000000002
+C012,Electronics,166.67,2024-11-23 02:10:11,2024-11-23,45.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),162.67999999999998
+C012,Electronics,377.19,2024-12-05 04:17:45,2024-12-05,12.0,2024-12,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),373.2
+C013,Sports,871.23,2023-01-21 08:30:01,2023-01-21,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,823.5500000000001
+C013,Clothing,841.34,2023-06-02 13:07:03,2023-06-02,132.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,817.35
+C013,Sports,906.98,2024-01-20 17:03:06,2024-01-20,232.0,2024-01,2024,Franklin Sports Spin N Putt Golf Game,859.3000000000001
+C013,Books,919.88,2024-02-20 10:04:34,2024-02-20,30.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,788.89
+C013,Books,695.63,2024-03-28 06:30:49,2024-03-28,36.0,2024-03,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,564.64
+C013,Toys,131.69,2024-04-16 09:03:52,2024-04-16,19.0,2024-04,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",107.7
+C013,Clothing,675.97,2024-08-04 04:09:17,2024-08-04,109.0,2024-08,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,651.98
+C013,Clothing,959.64,2024-09-21 15:31:43,2024-09-21,48.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,935.65
+C014,Toys,757.54,2023-02-11 06:42:52,2023-02-11,,2023-02,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",733.55
+C014,Sports,265.24,2023-06-07 14:47:51,2023-06-07,116.0,2023-06,2023,Franklin Sports Spin N Putt Golf Game,217.56
+C014,Sports,568.06,2023-07-12 11:20:32,2023-07-12,34.0,2023-07,2023,Franklin Sports Spin N Putt Golf Game,520.38
+C014,Books,839.57,2023-07-28 12:09:32,2023-07-28,16.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,708.58
+C014,Electronics,960.95,2023-09-12 15:50:16,2023-09-12,46.0,2023-09,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),956.96
+C014,Sports,250.98,2023-11-26 04:47:29,2023-11-26,74.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,203.29999999999998
+C014,Sports,212.06,2023-11-26 19:37:55,2023-11-26,0.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,164.38
+C014,Clothing,848.62,2024-03-13 23:22:11,2024-03-13,108.0,2024-03,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,824.63
+C014,Beauty,934.47,2024-06-03 16:48:07,2024-06-03,81.0,2024-06,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",918.47
+C014,Beauty,207.49,2024-07-02 08:25:25,2024-07-02,28.0,2024-07,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",191.49
+C014,Toys,349.17,2024-07-09 11:16:55,2024-07-09,7.0,2024-07,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",325.18
+C014,Beauty,315.01,2024-09-09 15:51:47,2024-09-09,62.0,2024-09,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",299.01
+C014,Beauty,307.02,2024-10-24 10:09:05,2024-10-24,44.0,2024-10,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",291.02
+C015,Beauty,993.38,2023-01-25 05:42:35,2023-01-25,,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",977.38
+C015,Clothing,789.56,2023-06-21 19:21:11,2023-06-21,147.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,765.5699999999999
+C015,Toys,768.48,2023-07-18 18:55:10,2023-07-18,26.0,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",744.49
+C015,Beauty,652.66,2023-09-08 03:11:57,2023-09-08,51.0,2023-09,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",636.66
+C015,Electronics,554.14,2023-11-03 14:13:02,2023-11-03,56.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),550.15
+C015,Toys,500.71,2023-11-10 17:05:12,2023-11-10,7.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",476.71999999999997
+C015,Books,239.67,2023-11-24 03:27:16,2023-11-24,13.0,2023-11,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,108.67999999999998
+C015,Home Appliances,648.26,2024-04-23 22:38:15,2024-04-23,151.0,2024-04,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",455.81
+C015,Electronics,842.17,2024-06-29 15:04:00,2024-06-29,66.0,2024-06,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),838.18
+C015,Toys,869.05,2024-10-21 10:42:08,2024-10-21,113.0,2024-10,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",845.06
+C015,Sports,361.7,2024-11-03 19:43:01,2024-11-03,13.0,2024-11,2024,Franklin Sports Spin N Putt Golf Game,314.02
+C016,Sports,178.07,2023-01-27 03:03:19,2023-01-27,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,130.39
+C016,Beauty,319.44,2023-03-15 18:17:59,2023-03-15,47.0,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",303.44
+C016,Toys,457.32,2023-05-04 19:48:33,2023-05-04,50.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",433.33
+C016,Home Appliances,394.61,2023-06-16 18:18:21,2023-06-16,42.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",202.16000000000003
+C016,Clothing,277.32,2023-11-18 12:12:36,2023-11-18,154.0,2023-11,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,253.32999999999998
+C016,Toys,498.43,2024-04-18 22:05:18,2024-04-18,152.0,2024-04,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",474.44
+C016,Clothing,376.01,2024-05-09 05:44:06,2024-05-09,20.0,2024-05,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,352.02
+C016,Clothing,457.64,2024-05-13 13:40:25,2024-05-13,4.0,2024-05,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,433.65
+C017,Books,475.89,2023-01-17 02:17:05,2023-01-17,,2023-01,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,344.9
+C017,Sports,284.45,2023-01-28 09:35:48,2023-01-28,11.0,2023-01,2023,Franklin Sports Spin N Putt Golf Game,236.76999999999998
+C017,Clothing,618.16,2023-03-04 02:16:04,2023-03-04,34.0,2023-03,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,594.17
+C017,Electronics,59.07,2023-04-10 17:56:05,2023-04-10,37.0,2023-04,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),55.08
+C017,Home Appliances,533.18,2023-05-07 09:58:00,2023-05-07,26.0,2023-05,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",340.72999999999996
+C017,Toys,66.91,2023-08-20 00:01:41,2023-08-20,104.0,2023-08,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",42.92
+C017,Electronics,161.8,2023-09-01 13:51:32,2023-09-01,12.0,2023-09,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),157.81
+C017,Home Appliances,729.82,2023-09-25 07:24:51,2023-09-25,23.0,2023-09,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",537.3700000000001
+C017,Home Appliances,959.66,2023-09-25 14:50:44,2023-09-25,0.0,2023-09,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",767.21
+C017,Beauty,104.68,2023-12-30 01:47:53,2023-12-30,95.0,2023-12,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",88.68
+C017,Sports,176.13,2024-01-26 12:48:46,2024-01-26,27.0,2024-01,2024,Franklin Sports Spin N Putt Golf Game,128.45
+C017,Beauty,264.92,2024-03-03 01:20:53,2024-03-03,36.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",248.92000000000002
+C017,Beauty,876.99,2024-05-28 04:35:02,2024-05-28,86.0,2024-05,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",860.99
+C017,Books,451.82,2024-12-21 17:48:47,2024-12-21,207.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,320.83
+C018,Electronics,658.25,2023-01-27 20:45:06,2023-01-27,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),654.26
+C018,Toys,716.03,2023-02-18 00:40:09,2023-02-18,21.0,2023-02,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",692.04
+C018,Toys,561.04,2023-02-18 10:59:57,2023-02-18,0.0,2023-02,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",537.05
+C018,Electronics,764.75,2023-05-26 01:24:31,2023-05-26,96.0,2023-05,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),760.76
+C018,Beauty,92.83,2023-11-25 06:01:11,2023-11-25,183.0,2023-11,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",76.83
+C018,Electronics,655.21,2024-03-18 16:04:51,2024-03-18,114.0,2024-03,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),651.22
+C018,Books,482.39,2024-08-28 15:56:07,2024-08-28,162.0,2024-08,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,351.4
+C018,Books,623.06,2024-10-14 07:04:40,2024-10-14,46.0,2024-10,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,492.06999999999994
+C018,Books,947.53,2024-11-11 06:30:21,2024-11-11,27.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,816.54
+C019,Toys,580.86,2023-01-04 06:03:38,2023-01-04,,2023-01,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",556.87
+C019,Sports,885.17,2023-03-11 21:11:41,2023-03-11,66.0,2023-03,2023,Franklin Sports Spin N Putt Golf Game,837.49
+C019,Home Appliances,361.72,2023-04-09 11:47:52,2023-04-09,28.0,2023-04,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",169.27000000000004
+C019,Electronics,500.33,2023-10-31 01:06:21,2023-10-31,204.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),496.34
+C019,Toys,839.11,2023-11-14 14:04:33,2023-11-14,14.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",815.12
+C019,Books,396.0,2024-01-08 16:39:39,2024-01-08,55.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,265.01
+C019,Clothing,347.27,2024-01-15 06:38:00,2024-01-15,6.0,2024-01,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,323.28
+C019,Electronics,181.68,2024-10-26 17:44:18,2024-10-26,285.0,2024-10,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),177.69
+C020,Beauty,534.84,2023-01-27 05:49:44,2023-01-27,,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",518.84
+C020,Books,540.62,2023-04-25 18:37:06,2023-04-25,88.0,2023-04,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,409.63
+C020,Sports,48.86,2023-05-16 15:31:12,2023-05-16,20.0,2023-05,2023,Franklin Sports Spin N Putt Golf Game,1.1799999999999997
+C020,Beauty,139.57,2023-06-02 19:38:36,2023-06-02,17.0,2023-06,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",123.57
+C020,Electronics,142.34,2023-07-24 17:23:45,2023-07-24,51.0,2023-07,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),138.35
+C020,Beauty,318.35,2023-08-23 14:30:15,2023-08-23,29.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",302.35
+C020,Toys,981.41,2023-12-20 00:34:52,2023-12-20,118.0,2023-12,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",957.42
+C020,Clothing,83.06,2024-02-19 02:25:49,2024-02-19,61.0,2024-02,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,59.07000000000001
+C020,Sports,969.56,2024-06-13 19:41:43,2024-06-13,115.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,921.88
+C020,Books,948.81,2024-08-12 20:53:21,2024-08-12,60.0,2024-08,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,817.8199999999999
+C020,Sports,262.69,2024-10-06 10:50:56,2024-10-06,54.0,2024-10,2024,Franklin Sports Spin N Putt Golf Game,215.01
+C021,Sports,259.78,2023-01-22 19:04:52,2023-01-22,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,212.09999999999997
+C021,Sports,970.57,2023-04-13 08:49:32,2023-04-13,80.0,2023-04,2023,Franklin Sports Spin N Putt Golf Game,922.8900000000001
+C021,Electronics,463.5,2023-05-14 18:27:30,2023-05-14,31.0,2023-05,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),459.51
+C021,Books,321.19,2023-06-30 20:59:02,2023-06-30,47.0,2023-06,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,190.2
+C021,Clothing,878.34,2023-07-15 07:59:59,2023-07-15,14.0,2023-07,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,854.35
+C021,Books,383.34,2024-01-10 21:20:18,2024-01-10,179.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,252.34999999999997
+C021,Beauty,849.37,2024-01-27 09:02:58,2024-01-27,16.0,2024-01,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",833.37
+C021,Clothing,250.15,2024-01-28 05:29:27,2024-01-28,0.0,2024-01,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,226.16
+C021,Sports,550.98,2024-02-06 15:48:48,2024-02-06,9.0,2024-02,2024,Franklin Sports Spin N Putt Golf Game,503.3
+C021,Books,919.91,2024-02-12 18:25:36,2024-02-12,6.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,788.92
+C021,Toys,120.93,2024-06-23 21:29:50,2024-06-23,132.0,2024-06,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",96.94000000000001
+C021,Electronics,325.87,2024-10-10 20:53:40,2024-10-10,108.0,2024-10,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),321.88
+C021,Beauty,326.32,2024-11-09 22:01:51,2024-11-09,30.0,2024-11,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",310.32
+C021,Sports,856.02,2024-11-28 08:47:54,2024-11-28,18.0,2024-11,2024,Franklin Sports Spin N Putt Golf Game,808.34
+C022,Books,720.74,2023-02-07 08:04:26,2023-02-07,,2023-02,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,589.75
+C022,Toys,494.2,2023-03-03 09:24:26,2023-03-03,24.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",470.21
+C022,Electronics,733.3,2023-03-11 11:35:42,2023-03-11,8.0,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),729.31
+C022,Home Appliances,120.81,2023-03-17 03:23:50,2023-03-17,5.0,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-71.63999999999999
+C022,Home Appliances,659.27,2023-07-04 11:37:50,2023-07-04,109.0,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",466.82
+C022,Beauty,851.2,2023-11-21 02:11:19,2023-11-21,139.0,2023-11,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",835.2
+C022,Home Appliances,101.68,2023-11-25 17:20:17,2023-11-25,4.0,2023-11,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-90.76999999999998
+C022,Home Appliances,397.97,2024-04-03 09:38:54,2024-04-03,129.0,2024-04,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",205.52000000000004
+C022,Home Appliances,839.02,2024-05-04 07:45:03,2024-05-04,30.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",646.5699999999999
+C022,Home Appliances,786.68,2024-08-02 19:34:05,2024-08-02,90.0,2024-08,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",594.23
+C022,Books,674.99,2024-08-08 16:07:39,2024-08-08,5.0,2024-08,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,544.0
+C022,Clothing,187.16,2024-10-17 21:47:03,2024-10-17,70.0,2024-10,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,163.17
+C023,Sports,752.47,2023-01-22 00:13:53,2023-01-22,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,704.7900000000001
+C023,Sports,734.5,2023-03-04 21:32:19,2023-03-04,41.0,2023-03,2023,Franklin Sports Spin N Putt Golf Game,686.82
+C023,Beauty,566.51,2023-04-09 09:12:31,2023-04-09,35.0,2023-04,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",550.51
+C023,Clothing,850.08,2023-06-24 22:35:08,2023-06-24,76.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,826.09
+C023,Toys,425.09,2024-01-04 09:15:58,2024-01-04,193.0,2024-01,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",401.09999999999997
+C023,Toys,320.07,2024-02-17 15:29:32,2024-02-17,44.0,2024-02,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",296.08
+C023,Sports,116.78,2024-09-03 01:42:38,2024-09-03,198.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,69.1
+C023,Home Appliances,112.43,2024-11-05 21:54:38,2024-11-05,63.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-80.01999999999998
+C023,Electronics,512.56,2024-11-24 05:56:19,2024-11-24,18.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),508.56999999999994
+C024,Electronics,444.48,2023-01-14 10:53:04,2023-01-14,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),440.49
+C024,Sports,143.64,2023-01-22 06:41:21,2023-01-22,7.0,2023-01,2023,Franklin Sports Spin N Putt Golf Game,95.95999999999998
+C024,Electronics,186.4,2023-02-08 03:35:30,2023-02-08,16.0,2023-02,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),182.41
+C024,Electronics,526.1,2023-04-29 09:51:53,2023-04-29,80.0,2023-04,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),522.11
+C024,Home Appliances,748.86,2023-07-11 00:47:56,2023-07-11,72.0,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",556.4100000000001
+C024,Sports,380.81,2024-03-26 13:59:15,2024-03-26,259.0,2024-03,2024,Franklin Sports Spin N Putt Golf Game,333.13
+C024,Beauty,789.14,2024-12-05 12:29:08,2024-12-05,253.0,2024-12,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",773.14
+C025,Sports,435.11,2023-01-15 02:52:21,2023-01-15,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,387.43
+C025,Toys,691.73,2023-05-30 14:44:57,2023-05-30,135.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",667.74
+C025,Toys,936.39,2023-06-22 18:12:24,2023-06-22,23.0,2023-06,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",912.4
+C025,Books,399.52,2023-06-23 01:33:53,2023-06-23,0.0,2023-06,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,268.53
+C025,Sports,58.79,2023-09-20 11:21:31,2023-09-20,89.0,2023-09,2023,Franklin Sports Spin N Putt Golf Game,11.11
+C025,Books,655.76,2024-01-16 19:49:02,2024-01-16,118.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,524.77
+C025,Books,560.34,2024-02-04 13:48:41,2024-02-04,18.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,429.35
+C025,Electronics,718.78,2024-02-21 06:45:55,2024-02-21,16.0,2024-02,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),714.79
+C025,Sports,81.21,2024-03-30 08:29:11,2024-03-30,38.0,2024-03,2024,Franklin Sports Spin N Putt Golf Game,33.529999999999994
+C025,Electronics,594.17,2024-04-15 08:03:32,2024-04-15,15.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),590.18
+C025,Toys,904.0,2024-06-07 22:28:23,2024-06-07,53.0,2024-06,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",880.01
+C025,Electronics,957.65,2024-06-12 11:53:18,2024-06-12,4.0,2024-06,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),953.66
+C025,Home Appliances,114.75,2024-06-17 15:54:45,2024-06-17,5.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-77.69999999999999
+C025,Toys,689.2,2024-12-05 00:41:35,2024-12-05,170.0,2024-12,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",665.21
+C026,Books,642.32,2023-03-11 10:20:23,2023-03-11,,2023-03,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,511.33000000000004
+C026,Home Appliances,14.9,2024-05-10 06:34:05,2024-05-10,425.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-177.54999999999998
+C026,Books,645.58,2024-05-30 03:40:09,2024-05-30,19.0,2024-05,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,514.59
+C026,Beauty,954.9,2024-07-17 20:44:18,2024-07-17,48.0,2024-07,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",938.9
+C026,Books,283.72,2024-09-03 16:10:08,2024-09-03,47.0,2024-09,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,152.73000000000002
+C026,Sports,854.62,2024-09-03 20:51:26,2024-09-03,0.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,806.94
+C027,Beauty,49.85,2023-03-12 12:44:57,2023-03-12,,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",33.85
+C027,Toys,513.89,2023-04-12 19:44:31,2023-04-12,31.0,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",489.9
+C027,Home Appliances,600.88,2023-06-07 17:33:10,2023-06-07,55.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",408.43
+C027,Clothing,359.06,2023-08-09 05:01:42,2023-08-09,62.0,2023-08,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,335.07
+C027,Electronics,504.07,2023-12-29 17:17:36,2023-12-29,142.0,2023-12,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),500.08
+C027,Toys,730.9,2024-01-29 20:12:12,2024-01-29,31.0,2024-01,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",706.91
+C027,Beauty,244.56,2024-05-15 13:44:22,2024-05-15,106.0,2024-05,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",228.56
+C027,Books,447.46,2024-07-07 23:15:18,2024-07-07,53.0,2024-07,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,316.46999999999997
+C027,Sports,32.12,2024-11-17 22:39:58,2024-11-17,132.0,2024-11,2024,Franklin Sports Spin N Putt Golf Game,-15.560000000000002
+C028,Books,688.83,2023-02-24 11:59:27,2023-02-24,,2023-02,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,557.84
+C028,Sports,349.39,2023-07-27 02:50:47,2023-07-27,152.0,2023-07,2023,Franklin Sports Spin N Putt Golf Game,301.71
+C028,Sports,678.11,2023-10-29 15:03:54,2023-10-29,94.0,2023-10,2023,Franklin Sports Spin N Putt Golf Game,630.4300000000001
+C028,Clothing,64.43,2024-02-27 15:45:40,2024-02-27,121.0,2024-02,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,40.44000000000001
+C028,Clothing,560.07,2024-05-29 02:49:50,2024-05-29,91.0,2024-05,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,536.08
+C028,Books,479.04,2024-09-09 10:09:40,2024-09-09,103.0,2024-09,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,348.05
+C028,Clothing,677.24,2024-09-21 18:12:35,2024-09-21,12.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,653.25
+C029,Electronics,645.37,2023-01-17 15:16:00,2023-01-17,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),641.38
+C029,Home Appliances,978.36,2023-02-08 10:47:15,2023-02-08,21.0,2023-02,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",785.9100000000001
+C029,Clothing,453.46,2023-02-22 14:24:15,2023-02-22,14.0,2023-02,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,429.46999999999997
+C029,Electronics,584.9,2024-09-01 19:04:07,2024-09-01,557.0,2024-09,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),580.91
+C029,Books,350.6,2024-11-03 22:38:16,2024-11-03,63.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,219.61
+C029,Sports,251.45,2024-12-05 02:54:54,2024-12-05,31.0,2024-12,2024,Franklin Sports Spin N Putt Golf Game,203.76999999999998
+C030,Home Appliances,326.07,2023-07-08 13:42:11,2023-07-08,,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",133.62
+C030,Home Appliances,123.45,2024-02-06 05:05:33,2024-02-06,212.0,2024-02,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-68.99999999999999
+C030,Electronics,382.31,2024-02-17 14:20:05,2024-02-17,11.0,2024-02,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),378.32
+C030,Toys,596.32,2024-07-15 21:44:45,2024-07-15,149.0,2024-07,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",572.33
+C030,Toys,972.84,2024-08-16 21:13:18,2024-08-16,31.0,2024-08,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",948.85
+C030,Beauty,22.65,2024-09-22 05:02:51,2024-09-22,36.0,2024-09,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",6.649999999999999
+C030,Books,809.47,2024-12-04 04:50:39,2024-12-04,72.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,678.48
+C031,Sports,655.03,2023-04-07 07:27:18,2023-04-07,,2023-04,2023,Franklin Sports Spin N Putt Golf Game,607.35
+C031,Toys,777.71,2023-10-26 06:13:57,2023-10-26,201.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",753.72
+C031,Clothing,22.75,2023-11-10 17:57:05,2023-11-10,15.0,2023-11,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,-1.2399999999999984
+C031,Electronics,338.59,2023-11-14 17:57:43,2023-11-14,4.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),334.59999999999997
+C031,Beauty,254.6,2024-03-09 18:12:22,2024-03-09,116.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",238.6
+C031,Beauty,257.17,2024-05-15 13:41:24,2024-05-15,66.0,2024-05,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",241.17000000000002
+C031,Sports,411.4,2024-08-19 06:15:58,2024-08-19,95.0,2024-08,2024,Franklin Sports Spin N Putt Golf Game,363.71999999999997
+C031,Books,342.28,2024-10-09 23:01:20,2024-10-09,51.0,2024-10,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,211.28999999999996
+C032,Toys,359.26,2023-04-24 14:30:56,2023-04-24,,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",335.27
+C032,Sports,344.91,2023-06-09 03:07:09,2023-06-09,45.0,2023-06,2023,Franklin Sports Spin N Putt Golf Game,297.23
+C032,Electronics,785.44,2023-06-26 14:48:07,2023-06-26,17.0,2023-06,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),781.45
+C032,Toys,563.05,2023-07-08 20:05:58,2023-07-08,12.0,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",539.06
+C032,Clothing,916.9,2023-10-20 07:39:15,2023-10-20,103.0,2023-10,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,892.91
+C032,Electronics,97.58,2023-10-29 07:03:35,2023-10-29,8.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),93.59
+C032,Home Appliances,732.28,2024-06-20 23:48:59,2024-06-20,235.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",539.8299999999999
+C032,Beauty,586.52,2024-08-20 09:08:40,2024-08-20,60.0,2024-08,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",570.52
+C032,Toys,141.0,2024-08-20 16:32:52,2024-08-20,0.0,2024-08,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",117.01
+C032,Home Appliances,171.64,2024-11-22 08:38:43,2024-11-22,93.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-20.810000000000002
+C033,Sports,280.49,2023-03-07 18:36:15,2023-03-07,,2023-03,2023,Franklin Sports Spin N Putt Golf Game,232.81
+C033,Toys,884.58,2023-04-11 04:39:17,2023-04-11,34.0,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",860.59
+C033,Beauty,835.97,2023-07-29 19:18:27,2023-07-29,109.0,2023-07,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",819.97
+C033,Toys,45.07,2023-11-29 09:52:28,2023-11-29,122.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",21.080000000000002
+C033,Clothing,844.72,2023-12-22 03:04:41,2023-12-22,22.0,2023-12,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,820.73
+C033,Home Appliances,383.57,2024-02-07 21:17:57,2024-02-07,47.0,2024-02,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",191.12
+C033,Books,436.21,2024-03-15 12:24:57,2024-03-15,36.0,2024-03,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,305.21999999999997
+C033,Beauty,846.17,2024-04-16 13:23:21,2024-04-16,32.0,2024-04,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",830.17
+C033,Home Appliances,949.13,2024-06-14 15:59:51,2024-06-14,59.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",756.6800000000001
+C033,Clothing,577.47,2024-08-07 21:36:41,2024-08-07,54.0,2024-08,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,553.48
+C033,Electronics,363.66,2024-08-29 10:35:17,2024-08-29,21.0,2024-08,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),359.67
+C033,Sports,632.12,2024-09-27 12:09:50,2024-09-27,29.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,584.44
+C033,Books,286.0,2024-10-18 10:16:00,2024-10-18,20.0,2024-10,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,155.01
+C034,Clothing,49.86,2023-01-29 08:26:30,2023-01-29,,2023-01,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,25.87
+C034,Sports,272.85,2023-02-12 05:44:54,2023-02-12,13.0,2023-02,2023,Franklin Sports Spin N Putt Golf Game,225.17000000000002
+C034,Toys,441.17,2023-02-15 12:08:51,2023-02-15,3.0,2023-02,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",417.18
+C034,Electronics,855.02,2023-02-19 19:55:59,2023-02-19,4.0,2023-02,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),851.03
+C034,Toys,356.19,2023-03-18 02:30:59,2023-03-18,26.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",332.2
+C034,Toys,592.0,2023-03-21 11:09:17,2023-03-21,3.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",568.01
+C034,Books,708.46,2023-04-09 07:41:15,2023-04-09,18.0,2023-04,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,577.47
+C034,Books,677.7,2023-08-06 04:52:27,2023-08-06,118.0,2023-08,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,546.71
+C034,Books,44.78,2023-08-22 05:30:28,2023-08-22,16.0,2023-08,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-86.21000000000001
+C034,Toys,393.21,2023-09-17 00:01:39,2023-09-17,25.0,2023-09,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",369.21999999999997
+C034,Home Appliances,812.35,2023-10-18 09:09:41,2023-10-18,31.0,2023-10,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",619.9000000000001
+C034,Home Appliances,443.97,2023-12-15 13:45:29,2023-12-15,58.0,2023-12,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",251.52000000000004
+C034,Clothing,789.15,2024-01-08 00:17:31,2024-01-08,23.0,2024-01,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,765.16
+C034,Sports,958.96,2024-05-05 20:26:21,2024-05-05,118.0,2024-05,2024,Franklin Sports Spin N Putt Golf Game,911.2800000000001
+C034,Home Appliances,756.12,2024-08-21 13:14:57,2024-08-21,107.0,2024-08,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",563.6700000000001
+C034,Books,989.92,2024-12-29 00:22:56,2024-12-29,129.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,858.93
+C034,Toys,325.77,2024-12-30 15:40:41,2024-12-30,1.0,2024-12,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",301.78
+C035,Electronics,293.37,2023-03-06 23:54:59,2023-03-06,,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),289.38
+C035,Electronics,873.29,2023-06-28 15:17:30,2023-06-28,113.0,2023-06,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),869.3
+C035,Toys,129.57,2023-12-08 03:36:01,2023-12-08,162.0,2023-12,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",105.58
+C035,Toys,46.5,2024-02-27 16:53:01,2024-02-27,81.0,2024-02,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",22.51
+C035,Electronics,135.77,2024-04-06 02:28:03,2024-04-06,38.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),131.78
+C035,Sports,827.85,2024-06-21 09:50:08,2024-06-21,76.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,780.1700000000001
+C035,Beauty,912.3,2024-07-16 09:54:11,2024-07-16,25.0,2024-07,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",896.3
+C035,Clothing,692.24,2024-07-26 21:29:23,2024-07-26,10.0,2024-07,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,668.25
+C035,Books,565.5,2024-08-18 06:35:50,2024-08-18,22.0,2024-08,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,434.51
+C036,Home Appliances,409.44,2023-07-29 16:53:09,2023-07-29,,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",216.99
+C036,Beauty,604.94,2023-12-04 04:26:56,2023-12-04,127.0,2023-12,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",588.94
+C036,Sports,166.19,2024-04-16 00:06:43,2024-04-16,133.0,2024-04,2024,Franklin Sports Spin N Putt Golf Game,118.50999999999999
+C036,Beauty,389.37,2024-04-29 16:32:11,2024-04-29,13.0,2024-04,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",373.37
+C036,Beauty,847.34,2024-06-19 23:48:27,2024-06-19,51.0,2024-06,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",831.34
+C036,Clothing,628.47,2024-08-02 05:42:52,2024-08-02,43.0,2024-08,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,604.48
+C036,Clothing,176.83,2024-09-14 16:55:59,2024-09-14,43.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,152.84
+C036,Home Appliances,827.05,2024-10-25 11:05:26,2024-10-25,40.0,2024-10,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",634.5999999999999
+C036,Electronics,780.35,2024-12-26 22:06:04,2024-12-26,62.0,2024-12,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),776.36
+C037,Home Appliances,467.55,2023-03-01 04:30:52,2023-03-01,,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",275.1
+C037,Toys,386.79,2023-06-23 04:27:20,2023-06-23,113.0,2023-06,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",362.8
+C037,Toys,640.63,2023-11-04 11:34:48,2023-11-04,134.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",616.64
+C037,Books,951.03,2024-01-20 15:03:13,2024-01-20,77.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,820.04
+C037,Electronics,390.36,2024-04-04 14:35:25,2024-04-04,74.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),386.37
+C037,Books,252.68,2024-05-26 11:01:25,2024-05-26,51.0,2024-05,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,121.69
+C037,Beauty,946.13,2024-05-26 14:33:56,2024-05-26,0.0,2024-05,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",930.13
+C038,Toys,653.72,2023-07-26 00:25:42,2023-07-26,,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",629.73
+C038,Toys,937.2,2023-09-09 09:19:55,2023-09-09,45.0,2023-09,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",913.21
+C038,Books,253.33,2023-10-10 15:36:18,2023-10-10,31.0,2023-10,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,122.34
+C038,Books,982.68,2024-03-11 06:01:53,2024-03-11,152.0,2024-03,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,851.6899999999999
+C038,Toys,194.55,2024-04-03 06:05:46,2024-04-03,23.0,2024-04,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",170.56
+C038,Electronics,799.81,2024-04-19 14:33:22,2024-04-19,16.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),795.8199999999999
+C038,Books,581.4,2024-07-25 21:32:49,2024-07-25,97.0,2024-07,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,450.40999999999997
+C038,Home Appliances,802.2,2024-10-05 17:18:52,2024-10-05,71.0,2024-10,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",609.75
+C039,Toys,132.2,2023-01-01 05:40:50,2023-01-01,,2023-01,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",108.21
+C039,Beauty,765.52,2023-03-07 15:17:57,2023-03-07,65.0,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",749.52
+C039,Toys,655.49,2023-05-13 16:13:12,2023-05-13,67.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",631.5
+C039,Books,522.63,2023-07-31 00:49:16,2023-07-31,78.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,391.64
+C039,Home Appliances,628.73,2023-08-06 17:53:46,2023-08-06,6.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",436.28000000000003
+C039,Toys,14.73,2023-09-26 17:31:29,2023-09-26,50.0,2023-09,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",-9.259999999999998
+C039,Clothing,452.45,2023-10-01 07:58:02,2023-10-01,4.0,2023-10,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,428.46
+C039,Beauty,831.63,2023-11-10 01:21:01,2023-11-10,39.0,2023-11,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",815.63
+C039,Sports,757.52,2023-11-16 18:29:22,2023-11-16,6.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,709.84
+C039,Electronics,157.44,2024-01-20 19:34:08,2024-01-20,65.0,2024-01,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),153.45
+C039,Electronics,517.99,2024-02-20 07:20:46,2024-02-20,30.0,2024-02,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),514.0
+C039,Toys,832.08,2024-03-07 05:04:51,2024-03-07,15.0,2024-03,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",808.09
+C039,Sports,503.99,2024-05-07 17:07:05,2024-05-07,61.0,2024-05,2024,Franklin Sports Spin N Putt Golf Game,456.31
+C039,Toys,995.26,2024-05-27 09:49:36,2024-05-27,19.0,2024-05,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",971.27
+C039,Beauty,359.31,2024-08-14 22:12:49,2024-08-14,79.0,2024-08,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",343.31
+C040,Home Appliances,494.27,2023-01-15 17:39:11,2023-01-15,,2023-01,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",301.82
+C040,Electronics,157.43,2023-07-27 08:23:50,2023-07-27,192.0,2023-07,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),153.44
+C040,Toys,420.31,2023-10-24 21:00:19,2023-10-24,89.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",396.32
+C040,Beauty,345.19,2024-04-25 13:38:43,2024-04-25,183.0,2024-04,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",329.19
+C040,Home Appliances,356.07,2024-04-26 00:09:40,2024-04-26,0.0,2024-04,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",163.62
+C040,Books,926.05,2024-06-18 20:39:08,2024-06-18,53.0,2024-06,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,795.06
+C040,Beauty,551.09,2024-07-08 01:10:06,2024-07-08,19.0,2024-07,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",535.09
+C040,Toys,777.13,2024-09-24 14:50:41,2024-09-24,78.0,2024-09,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",753.14
+C040,Toys,797.07,2024-11-17 10:30:30,2024-11-17,53.0,2024-11,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",773.08
+C041,Clothing,13.35,2023-01-29 08:46:17,2023-01-29,,2023-01,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,-10.639999999999999
+C041,Toys,391.72,2023-07-13 16:21:49,2023-07-13,165.0,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",367.73
+C041,Books,976.33,2023-09-14 12:08:09,2023-09-14,62.0,2023-09,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,845.34
+C041,Books,218.9,2023-12-23 03:34:16,2023-12-23,99.0,2023-12,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,87.91
+C041,Clothing,659.73,2024-02-16 11:10:18,2024-02-16,55.0,2024-02,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,635.74
+C041,Books,932.21,2024-04-15 16:43:15,2024-04-15,59.0,2024-04,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,801.22
+C041,Books,560.81,2024-07-24 09:50:49,2024-07-24,99.0,2024-07,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,429.81999999999994
+C041,Electronics,251.94,2024-09-23 05:43:50,2024-09-23,60.0,2024-09,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),247.95
+C041,Electronics,207.87,2024-11-17 22:33:42,2024-11-17,55.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),203.88
+C042,Beauty,186.25,2023-03-29 20:22:39,2023-03-29,,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",170.25
+C042,Home Appliances,804.79,2023-05-11 22:19:08,2023-05-11,43.0,2023-05,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",612.3399999999999
+C042,Clothing,817.14,2023-10-15 15:57:19,2023-10-15,156.0,2023-10,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,793.15
+C042,Books,646.37,2024-04-02 15:25:45,2024-04-02,169.0,2024-04,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,515.38
+C042,Sports,425.77,2024-05-16 13:26:19,2024-05-16,43.0,2024-05,2024,Franklin Sports Spin N Putt Golf Game,378.09
+C042,Beauty,440.76,2024-09-28 17:07:29,2024-09-28,135.0,2024-09,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",424.76
+C042,Toys,770.49,2024-10-20 02:36:33,2024-10-20,21.0,2024-10,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",746.5
+C043,Toys,650.95,2023-01-28 15:05:30,2023-01-28,,2023-01,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",626.96
+C043,Books,469.35,2023-06-13 18:28:25,2023-06-13,136.0,2023-06,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,338.36
+C043,Books,228.98,2023-11-25 23:45:46,2023-11-25,165.0,2023-11,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,97.98999999999998
+C043,Sports,752.93,2024-03-19 23:58:57,2024-03-19,115.0,2024-03,2024,Franklin Sports Spin N Putt Golf Game,705.25
+C043,Clothing,472.84,2024-04-16 13:15:49,2024-04-16,27.0,2024-04,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,448.84999999999997
+C043,Electronics,69.53,2024-05-04 18:31:37,2024-05-04,18.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),65.54
+C043,Toys,757.61,2024-05-18 05:43:23,2024-05-18,13.0,2024-05,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",733.62
+C043,Books,208.19,2024-05-30 12:22:35,2024-05-30,12.0,2024-05,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,77.19999999999999
+C043,Clothing,505.71,2024-08-15 11:02:43,2024-08-15,76.0,2024-08,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,481.71999999999997
+C044,Books,671.7,2023-03-15 00:19:52,2023-03-15,,2023-03,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,540.71
+C044,Beauty,927.97,2023-04-13 19:58:22,2023-04-13,29.0,2023-04,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",911.97
+C044,Sports,687.91,2023-07-28 03:19:32,2023-07-28,105.0,2023-07,2023,Franklin Sports Spin N Putt Golf Game,640.23
+C044,Clothing,497.47,2023-08-16 07:47:56,2023-08-16,19.0,2023-08,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,473.48
+C044,Sports,924.62,2023-11-04 11:37:17,2023-11-04,80.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,876.94
+C044,Home Appliances,851.3,2024-01-12 15:18:56,2024-01-12,69.0,2024-01,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",658.8499999999999
+C044,Clothing,350.41,2024-04-25 08:21:07,2024-04-25,103.0,2024-04,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,326.42
+C044,Sports,23.47,2024-05-24 05:31:20,2024-05-24,28.0,2024-05,2024,Franklin Sports Spin N Putt Golf Game,-24.21
+C044,Home Appliances,355.16,2024-06-27 23:43:37,2024-06-27,34.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",162.71000000000004
+C044,Sports,995.65,2024-08-11 14:30:15,2024-08-11,44.0,2024-08,2024,Franklin Sports Spin N Putt Golf Game,947.97
+C044,Clothing,977.95,2024-08-28 08:26:40,2024-08-28,16.0,2024-08,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,953.96
+C045,Electronics,993.4,2023-01-28 12:14:22,2023-01-28,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),989.41
+C045,Books,715.56,2023-05-23 09:19:18,2023-05-23,114.0,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,584.5699999999999
+C045,Clothing,240.21,2023-06-14 03:02:25,2023-06-14,21.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,216.22
+C045,Sports,685.32,2023-09-01 12:11:00,2023-09-01,79.0,2023-09,2023,Franklin Sports Spin N Putt Golf Game,637.6400000000001
+C045,Beauty,640.59,2023-09-16 04:49:22,2023-09-16,14.0,2023-09,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",624.59
+C045,Books,941.36,2024-01-30 18:36:14,2024-01-30,136.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,810.37
+C045,Sports,724.09,2024-02-02 16:38:28,2024-02-02,2.0,2024-02,2024,Franklin Sports Spin N Putt Golf Game,676.4100000000001
+C045,Books,173.89,2024-02-14 12:34:48,2024-02-14,11.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,42.89999999999998
+C045,Electronics,436.72,2024-05-06 06:40:31,2024-05-06,81.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),432.73
+C045,Home Appliances,971.97,2024-05-27 08:39:23,2024-05-27,21.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",779.52
+C045,Books,957.09,2024-05-28 16:03:41,2024-05-28,1.0,2024-05,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,826.1
+C045,Toys,500.87,2024-10-25 19:38:20,2024-10-25,150.0,2024-10,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",476.88
+C045,Books,969.25,2024-11-02 12:16:19,2024-11-02,7.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,838.26
+C046,Electronics,839.48,2023-02-10 05:56:18,2023-02-10,,2023-02,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),835.49
+C046,Home Appliances,753.76,2023-03-14 01:14:00,2023-03-14,31.0,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",561.31
+C046,Electronics,167.45,2023-05-04 14:05:20,2023-05-04,51.0,2023-05,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),163.45999999999998
+C046,Books,404.02,2023-05-26 02:40:11,2023-05-26,21.0,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,273.03
+C046,Beauty,970.77,2023-08-28 03:29:17,2023-08-28,94.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",954.77
+C046,Electronics,785.93,2023-09-24 19:49:50,2023-09-24,27.0,2023-09,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),781.9399999999999
+C046,Electronics,75.81,2023-10-13 08:28:27,2023-10-13,18.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),71.82000000000001
+C046,Sports,253.24,2023-12-21 12:51:03,2023-12-21,69.0,2023-12,2023,Franklin Sports Spin N Putt Golf Game,205.56
+C046,Toys,502.22,2024-05-21 06:17:37,2024-05-21,151.0,2024-05,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",478.23
+C046,Books,214.23,2024-06-25 11:00:55,2024-06-25,35.0,2024-06,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,83.23999999999998
+C046,Sports,56.11,2024-07-10 12:07:32,2024-07-10,15.0,2024-07,2024,Franklin Sports Spin N Putt Golf Game,8.43
+C047,Home Appliances,519.71,2023-07-10 21:35:12,2023-07-10,,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",327.26000000000005
+C047,Toys,448.79,2023-07-21 00:51:49,2023-07-21,10.0,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",424.8
+C047,Clothing,488.02,2023-08-05 19:08:30,2023-08-05,15.0,2023-08,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,464.03
+C047,Beauty,255.66,2024-02-14 09:01:01,2024-02-14,192.0,2024-02,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",239.66
+C047,Electronics,158.04,2024-02-18 18:50:33,2024-02-18,4.0,2024-02,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),154.04999999999998
+C047,Books,621.16,2024-03-20 20:10:00,2024-03-20,31.0,2024-03,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,490.16999999999996
+C047,Electronics,360.18,2024-06-08 05:38:14,2024-06-08,79.0,2024-06,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),356.19
+C047,Books,535.22,2024-07-07 12:48:19,2024-07-07,29.0,2024-07,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,404.23
+C047,Toys,528.39,2024-11-05 15:40:04,2024-11-05,121.0,2024-11,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",504.4
+C047,Home Appliances,298.79,2024-11-21 23:59:35,2024-11-21,16.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",106.34000000000003
+C047,Books,88.24,2024-12-24 22:33:27,2024-12-24,32.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-42.750000000000014
+C048,Electronics,970.08,2023-01-23 04:48:48,2023-01-23,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),966.09
+C048,Beauty,247.16,2023-05-21 06:56:58,2023-05-21,118.0,2023-05,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",231.16
+C048,Sports,319.17,2023-05-31 04:35:39,2023-05-31,9.0,2023-05,2023,Franklin Sports Spin N Putt Golf Game,271.49
+C048,Clothing,65.65,2023-07-26 05:08:48,2023-07-26,56.0,2023-07,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,41.66000000000001
+C048,Beauty,852.47,2023-08-25 22:46:04,2023-08-25,30.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",836.47
+C048,Home Appliances,578.5,2023-09-06 07:29:13,2023-09-06,11.0,2023-09,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",386.05
+C048,Electronics,118.25,2024-03-15 04:40:52,2024-03-15,190.0,2024-03,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),114.26
+C048,Electronics,229.89,2024-12-27 12:24:11,2024-12-27,287.0,2024-12,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),225.89999999999998
+C049,Beauty,185.56,2023-03-21 19:23:18,2023-03-21,,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",169.56
+C049,Beauty,57.46,2023-08-19 15:01:10,2023-08-19,150.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",41.46
+C049,Books,253.33,2024-01-02 11:16:33,2024-01-02,135.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,122.34
+C049,Books,465.69,2024-02-23 11:09:35,2024-02-23,51.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,334.7
+C049,Toys,382.37,2024-03-16 04:48:59,2024-03-16,21.0,2024-03,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",358.38
+C049,Beauty,252.92,2024-10-18 02:57:01,2024-10-18,215.0,2024-10,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",236.92
+C049,Toys,203.85,2024-12-02 06:06:13,2024-12-02,45.0,2024-12,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",179.85999999999999
+C050,Home Appliances,610.77,2023-01-01 19:04:30,2023-01-01,,2023-01,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",418.32
+C050,Home Appliances,76.1,2023-02-04 23:28:42,2023-02-04,34.0,2023-02,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-116.35
+C050,Beauty,726.22,2023-06-09 07:34:32,2023-06-09,124.0,2023-06,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",710.22
+C050,Toys,54.31,2023-10-10 08:47:53,2023-10-10,123.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",30.320000000000004
+C050,Beauty,380.58,2023-10-20 15:15:48,2023-10-20,10.0,2023-10,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",364.58
+C050,Books,223.4,2024-01-24 00:24:02,2024-01-24,95.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,92.41
+C050,Sports,296.83,2024-07-12 10:48:03,2024-07-12,170.0,2024-07,2024,Franklin Sports Spin N Putt Golf Game,249.14999999999998
+C050,Electronics,401.57,2024-07-13 06:11:22,2024-07-13,0.0,2024-07,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),397.58
+C050,Beauty,955.1,2024-07-29 20:55:59,2024-07-29,16.0,2024-07,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",939.1
+C050,Home Appliances,732.31,2024-12-15 21:25:24,2024-12-15,139.0,2024-12,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",539.8599999999999
+C050,Sports,612.39,2024-12-19 17:21:06,2024-12-19,3.0,2024-12,2024,Franklin Sports Spin N Putt Golf Game,564.71
+C051,Home Appliances,693.82,2023-06-15 20:13:21,2023-06-15,,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",501.37000000000006
+C051,Clothing,645.78,2023-12-21 23:34:15,2023-12-21,189.0,2023-12,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,621.79
+C051,Sports,71.12,2024-07-28 16:06:08,2024-07-28,219.0,2024-07,2024,Franklin Sports Spin N Putt Golf Game,23.440000000000005
+C051,Sports,299.72,2024-08-06 18:59:03,2024-08-06,9.0,2024-08,2024,Franklin Sports Spin N Putt Golf Game,252.04000000000002
+C051,Books,704.76,2024-08-09 02:51:38,2024-08-09,2.0,2024-08,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,573.77
+C051,Home Appliances,427.08,2024-09-17 21:02:31,2024-09-17,39.0,2024-09,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",234.63
+C051,Clothing,579.51,2024-10-05 02:02:02,2024-10-05,17.0,2024-10,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,555.52
+C051,Electronics,330.39,2024-11-18 16:07:57,2024-11-18,44.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),326.4
+C052,Clothing,813.54,2023-08-15 06:16:33,2023-08-15,,2023-08,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,789.55
+C052,Home Appliances,469.92,2023-10-26 16:41:58,2023-10-26,72.0,2023-10,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",277.47
+C052,Toys,771.28,2024-01-12 22:03:35,2024-01-12,78.0,2024-01,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",747.29
+C052,Books,729.06,2024-02-25 07:41:03,2024-02-25,43.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,598.0699999999999
+C052,Toys,58.46,2024-03-12 07:59:51,2024-03-12,16.0,2024-03,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",34.47
+C052,Toys,873.47,2024-03-17 10:10:31,2024-03-17,5.0,2024-03,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",849.48
+C052,Home Appliances,969.67,2024-05-24 06:02:38,2024-05-24,67.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",777.22
+C052,Home Appliances,432.8,2024-06-04 08:14:26,2024-06-04,11.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",240.35000000000002
+C052,Beauty,117.79,2024-06-29 11:05:00,2024-06-29,25.0,2024-06,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",101.79
+C052,Books,397.19,2024-11-01 00:42:31,2024-11-01,124.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,266.2
+C052,Books,154.35,2024-11-29 05:12:04,2024-11-29,28.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,23.359999999999985
+C053,Sports,999.64,2023-02-27 23:15:47,2023-02-27,,2023-02,2023,Franklin Sports Spin N Putt Golf Game,951.96
+C053,Beauty,624.81,2023-03-21 15:39:11,2023-03-21,21.0,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",608.81
+C053,Electronics,962.86,2023-08-11 23:01:11,2023-08-11,143.0,2023-08,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),958.87
+C053,Home Appliances,894.33,2023-09-13 02:50:26,2023-09-13,32.0,2023-09,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",701.8800000000001
+C053,Home Appliances,547.58,2023-11-13 16:14:13,2023-11-13,61.0,2023-11,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",355.13000000000005
+C053,Clothing,566.85,2024-04-04 15:37:01,2024-04-04,142.0,2024-04,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,542.86
+C053,Clothing,237.76,2024-09-23 01:00:26,2024-09-23,171.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,213.76999999999998
+C053,Toys,599.13,2024-10-05 11:11:30,2024-10-05,12.0,2024-10,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",575.14
+C053,Clothing,368.75,2024-10-25 04:57:36,2024-10-25,19.0,2024-10,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,344.76
+C053,Books,770.94,2024-11-01 09:43:34,2024-11-01,7.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,639.95
+C053,Beauty,214.16,2024-11-10 17:33:44,2024-11-10,9.0,2024-11,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",198.16
+C053,Home Appliances,671.86,2024-11-25 01:10:56,2024-11-25,14.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",479.41
+C054,Clothing,730.54,2023-01-19 03:09:43,2023-01-19,,2023-01,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,706.55
+C054,Electronics,220.06,2023-03-08 18:51:33,2023-03-08,48.0,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),216.07
+C054,Sports,567.0,2023-06-25 05:12:31,2023-06-25,108.0,2023-06,2023,Franklin Sports Spin N Putt Golf Game,519.32
+C054,Home Appliances,980.23,2023-09-29 05:46:20,2023-09-29,96.0,2023-09,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",787.78
+C054,Electronics,289.11,2024-06-29 03:10:35,2024-06-29,273.0,2024-06,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),285.12
+C054,Books,538.23,2024-07-25 17:04:06,2024-07-25,26.0,2024-07,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,407.24
+C054,Clothing,372.3,2024-10-29 03:48:16,2024-10-29,95.0,2024-10,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,348.31
+C054,Home Appliances,671.66,2024-11-02 03:55:17,2024-11-02,4.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",479.21
+C054,Sports,298.6,2024-12-09 06:15:31,2024-12-09,37.0,2024-12,2024,Franklin Sports Spin N Putt Golf Game,250.92000000000002
+C055,Toys,344.83,2023-05-01 20:22:39,2023-05-01,,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",320.84
+C055,Clothing,859.97,2023-05-22 03:07:09,2023-05-22,20.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,835.98
+C055,Electronics,304.85,2023-08-30 10:35:59,2023-08-30,100.0,2023-08,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),300.86
+C055,Books,772.23,2023-11-03 03:16:22,2023-11-03,64.0,2023-11,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,641.24
+C055,Home Appliances,549.72,2024-05-03 09:59:54,2024-05-03,182.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",357.27000000000004
+C055,Electronics,490.46,2024-05-15 19:12:01,2024-05-15,12.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),486.46999999999997
+C055,Home Appliances,505.55,2024-10-25 12:08:51,2024-10-25,162.0,2024-10,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",313.1
+C056,Electronics,591.29,2023-01-21 12:39:05,2023-01-21,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),587.3
+C056,Home Appliances,305.64,2023-03-09 15:44:52,2023-03-09,47.0,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",113.19
+C056,Toys,602.47,2023-04-21 20:32:27,2023-04-21,43.0,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",578.48
+C056,Beauty,63.75,2023-05-10 10:11:41,2023-05-10,18.0,2023-05,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",47.75
+C056,Sports,574.64,2023-08-16 06:15:30,2023-08-16,97.0,2023-08,2023,Franklin Sports Spin N Putt Golf Game,526.96
+C056,Electronics,907.27,2023-09-14 09:48:15,2023-09-14,29.0,2023-09,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),903.28
+C056,Books,621.65,2023-12-24 20:03:40,2023-12-24,101.0,2023-12,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,490.65999999999997
+C056,Sports,884.33,2024-03-07 14:10:26,2024-03-07,73.0,2024-03,2024,Franklin Sports Spin N Putt Golf Game,836.6500000000001
+C056,Home Appliances,357.67,2024-04-23 15:09:03,2024-04-23,47.0,2024-04,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",165.22000000000003
+C056,Toys,671.14,2024-08-06 01:11:52,2024-08-06,104.0,2024-08,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",647.15
+C057,Books,996.25,2023-01-24 12:14:51,2023-01-24,,2023-01,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,865.26
+C057,Books,977.03,2023-02-12 02:48:56,2023-02-12,18.0,2023-02,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,846.04
+C057,Beauty,897.49,2023-03-17 07:04:58,2023-03-17,33.0,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",881.49
+C057,Toys,160.69,2023-03-31 18:31:51,2023-03-31,14.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",136.7
+C057,Home Appliances,485.52,2023-06-21 01:07:31,2023-06-21,81.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",293.07
+C057,Books,157.57,2023-07-18 19:53:39,2023-07-18,27.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,26.579999999999984
+C057,Beauty,817.07,2023-08-31 12:32:56,2023-08-31,43.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",801.07
+C057,Toys,69.55,2023-10-03 22:57:03,2023-10-03,33.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",45.56
+C057,Toys,355.91,2023-10-11 20:05:01,2023-10-11,7.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",331.92
+C057,Electronics,659.42,2023-11-04 13:31:37,2023-11-04,23.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),655.43
+C057,Sports,480.99,2023-12-21 08:43:34,2023-12-21,46.0,2023-12,2023,Franklin Sports Spin N Putt Golf Game,433.31
+C057,Home Appliances,295.0,2024-03-11 12:28:46,2024-03-11,81.0,2024-03,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",102.55000000000001
+C057,Beauty,846.6,2024-03-24 03:29:17,2024-03-24,12.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",830.6
+C057,Beauty,177.44,2024-03-25 15:39:53,2024-03-25,1.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",161.44
+C057,Electronics,345.68,2024-04-02 01:39:40,2024-04-02,7.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),341.69
+C057,Books,898.9,2024-05-05 18:38:23,2024-05-05,33.0,2024-05,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,767.91
+C057,Home Appliances,188.11,2024-11-16 18:24:40,2024-11-16,194.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-4.339999999999975
+C058,Toys,346.81,2023-04-12 21:46:24,2023-04-12,,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",322.82
+C058,Beauty,675.83,2023-04-20 18:40:52,2023-04-20,7.0,2023-04,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",659.83
+C058,Toys,402.09,2023-05-04 12:44:05,2023-05-04,13.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",378.09999999999997
+C058,Books,807.6,2023-05-17 00:32:09,2023-05-17,12.0,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,676.61
+C058,Books,780.22,2023-11-12 11:46:31,2023-11-12,179.0,2023-11,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,649.23
+C058,Clothing,630.21,2024-03-02 18:30:02,2024-03-02,111.0,2024-03,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,606.22
+C058,Toys,879.13,2024-03-11 08:17:39,2024-03-11,8.0,2024-03,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",855.14
+C058,Books,86.83,2024-05-01 12:04:22,2024-05-01,51.0,2024-05,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-44.16000000000001
+C058,Clothing,562.52,2024-08-01 07:10:32,2024-08-01,91.0,2024-08,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,538.53
+C058,Toys,315.27,2024-08-05 16:11:19,2024-08-05,4.0,2024-08,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",291.28
+C058,Clothing,671.25,2024-09-26 21:34:07,2024-09-26,52.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,647.26
+C058,Books,41.26,2024-09-28 00:49:26,2024-09-28,1.0,2024-09,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-89.73000000000002
+C058,Beauty,249.39,2024-12-01 21:34:44,2024-12-01,64.0,2024-12,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",233.39
+C059,Beauty,342.17,2023-01-19 01:17:59,2023-01-19,,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",326.17
+C059,Sports,755.94,2023-03-20 10:53:21,2023-03-20,60.0,2023-03,2023,Franklin Sports Spin N Putt Golf Game,708.2600000000001
+C059,Toys,375.02,2023-04-14 21:36:21,2023-04-14,25.0,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",351.03
+C059,Clothing,352.04,2023-05-28 09:51:20,2023-05-28,43.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,328.05
+C059,Sports,758.29,2023-06-28 09:19:37,2023-06-28,30.0,2023-06,2023,Franklin Sports Spin N Putt Golf Game,710.61
+C059,Clothing,496.66,2023-07-02 20:47:41,2023-07-02,4.0,2023-07,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,472.67
+C059,Sports,359.25,2023-09-21 21:36:35,2023-09-21,81.0,2023-09,2023,Franklin Sports Spin N Putt Golf Game,311.57
+C059,Toys,540.29,2023-12-22 06:36:04,2023-12-22,91.0,2023-12,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",516.3
+C059,Home Appliances,400.17,2024-01-23 16:57:54,2024-01-23,32.0,2024-01,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",207.72000000000003
+C059,Home Appliances,16.79,2024-02-22 01:08:32,2024-02-22,29.0,2024-02,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-175.66
+C059,Sports,529.09,2024-03-10 00:56:28,2024-03-10,16.0,2024-03,2024,Franklin Sports Spin N Putt Golf Game,481.41
+C059,Sports,769.64,2024-04-25 19:36:21,2024-04-25,46.0,2024-04,2024,Franklin Sports Spin N Putt Golf Game,721.96
+C059,Electronics,439.11,2024-04-28 12:00:40,2024-04-28,2.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),435.12
+C059,Electronics,923.28,2024-05-04 18:04:50,2024-05-04,6.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),919.29
+C059,Electronics,49.03,2024-06-17 05:15:46,2024-06-17,43.0,2024-06,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),45.04
+C059,Home Appliances,305.04,2024-06-19 08:34:07,2024-06-19,2.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",112.59000000000003
+C059,Toys,284.58,2024-07-10 20:40:28,2024-07-10,21.0,2024-07,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",260.59
+C059,Toys,893.2,2024-08-09 08:02:19,2024-08-09,29.0,2024-08,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",869.21
+C059,Electronics,105.35,2024-10-28 09:57:20,2024-10-28,80.0,2024-10,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),101.36
+C059,Home Appliances,916.96,2024-11-22 06:43:28,2024-11-22,24.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",724.51
+C060,Clothing,154.35,2023-02-15 22:05:58,2023-02-15,,2023-02,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,130.35999999999999
+C060,Home Appliances,590.48,2023-03-09 06:11:08,2023-03-09,21.0,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",398.03000000000003
+C060,Books,109.95,2023-03-28 19:05:26,2023-03-28,19.0,2023-03,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-21.040000000000006
+C060,Clothing,459.81,2023-06-30 15:09:14,2023-06-30,93.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,435.82
+C060,Electronics,960.35,2023-07-05 05:37:30,2023-07-05,4.0,2023-07,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),956.36
+C060,Books,283.3,2023-09-13 10:02:37,2023-09-13,70.0,2023-09,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,152.31
+C060,Books,673.22,2023-09-25 13:23:45,2023-09-25,12.0,2023-09,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,542.23
+C060,Home Appliances,658.41,2024-04-22 08:30:57,2024-04-22,209.0,2024-04,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",465.96
+C060,Electronics,820.27,2024-05-26 06:33:13,2024-05-26,33.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),816.28
+C060,Beauty,858.77,2024-07-05 22:32:00,2024-07-05,40.0,2024-07,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",842.77
+C060,Clothing,761.85,2024-09-17 07:32:23,2024-09-17,73.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,737.86
+C060,Clothing,701.08,2024-10-13 03:37:37,2024-10-13,25.0,2024-10,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,677.09
+C060,Home Appliances,519.42,2024-11-11 04:08:49,2024-11-11,29.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",326.96999999999997
+C060,Beauty,49.68,2024-12-24 12:11:16,2024-12-24,43.0,2024-12,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",33.68
+C061,Electronics,201.0,2023-01-01 02:51:21,2023-01-01,,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),197.01
+C061,Toys,266.9,2023-03-21 07:10:41,2023-03-21,79.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",242.90999999999997
+C061,Electronics,370.19,2023-03-30 23:04:32,2023-03-30,9.0,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),366.2
+C061,Sports,667.32,2023-04-03 04:20:48,2023-04-03,3.0,2023-04,2023,Franklin Sports Spin N Putt Golf Game,619.6400000000001
+C061,Clothing,217.09,2023-06-05 20:22:50,2023-06-05,63.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,193.1
+C061,Electronics,46.78,2024-02-08 17:45:54,2024-02-08,247.0,2024-02,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),42.79
+C061,Clothing,847.54,2024-03-18 20:22:13,2024-03-18,39.0,2024-03,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,823.55
+C061,Books,813.9,2024-12-23 08:56:39,2024-12-23,279.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,682.91
+C062,Electronics,451.04,2023-03-05 06:42:24,2023-03-05,,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),447.05
+C062,Home Appliances,526.59,2023-07-17 11:28:25,2023-07-17,134.0,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",334.14000000000004
+C062,Toys,875.91,2024-09-12 03:04:06,2024-09-12,422.0,2024-09,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",851.92
+C062,Home Appliances,849.84,2024-09-16 12:40:25,2024-09-16,4.0,2024-09,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",657.3900000000001
+C063,Sports,702.99,2023-01-13 09:47:46,2023-01-13,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,655.3100000000001
+C063,Toys,532.46,2023-03-01 16:56:05,2023-03-01,47.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",508.47
+C063,Home Appliances,512.09,2023-03-15 02:24:48,2023-03-15,13.0,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",319.64000000000004
+C063,Beauty,325.23,2023-04-02 13:06:06,2023-04-02,18.0,2023-04,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",309.23
+C063,Clothing,130.33,2023-06-12 22:22:39,2023-06-12,71.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,106.34000000000002
+C063,Sports,39.03,2023-07-04 20:25:19,2023-07-04,21.0,2023-07,2023,Franklin Sports Spin N Putt Golf Game,-8.649999999999999
+C063,Beauty,339.51,2024-03-01 10:29:13,2024-03-01,240.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",323.51
+C063,Electronics,62.33,2024-10-19 07:25:08,2024-10-19,231.0,2024-10,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),58.339999999999996
+C063,Home Appliances,528.62,2024-11-23 23:58:40,2024-11-23,35.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",336.17
+C063,Electronics,31.44,2024-12-06 15:17:58,2024-12-06,12.0,2024-12,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),27.450000000000003
+C064,Home Appliances,340.23,2023-04-24 01:49:36,2023-04-24,,2023-04,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",147.78000000000003
+C064,Clothing,704.55,2023-05-11 14:05:51,2023-05-11,17.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,680.56
+C064,Beauty,620.25,2023-05-15 00:07:18,2023-05-15,3.0,2023-05,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",604.25
+C064,Home Appliances,896.81,2023-06-04 01:47:13,2023-06-04,20.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",704.3599999999999
+C064,Electronics,26.32,2023-06-28 11:04:44,2023-06-28,24.0,2023-06,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),22.33
+C064,Books,956.45,2023-10-11 11:32:51,2023-10-11,105.0,2023-10,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,825.46
+C064,Books,281.86,2024-02-20 17:28:14,2024-02-20,132.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,150.87
+C064,Books,204.76,2024-08-25 08:27:14,2024-08-25,186.0,2024-08,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,73.76999999999998
+C064,Toys,355.05,2024-11-19 11:02:16,2024-11-19,86.0,2024-11,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",331.06
+C065,Clothing,873.35,2023-02-09 17:34:30,2023-02-09,,2023-02,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,849.36
+C065,Toys,170.23,2023-03-06 10:34:05,2023-03-06,24.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",146.23999999999998
+C065,Electronics,380.24,2023-10-25 04:20:35,2023-10-25,232.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),376.25
+C065,Beauty,891.44,2024-01-26 08:27:03,2024-01-26,93.0,2024-01,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",875.44
+C065,Beauty,139.12,2024-06-30 17:16:38,2024-06-30,156.0,2024-06,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",123.12
+C065,Books,417.09,2024-09-09 23:50:59,2024-09-09,71.0,2024-09,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,286.09999999999997
+C065,Home Appliances,755.94,2024-12-28 22:40:05,2024-12-28,109.0,2024-12,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",563.49
+C066,Sports,641.0,2023-07-11 08:48:55,2023-07-11,,2023-07,2023,Franklin Sports Spin N Putt Golf Game,593.32
+C066,Electronics,159.9,2023-07-24 06:38:50,2023-07-24,12.0,2023-07,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),155.91
+C066,Books,713.63,2023-12-25 15:54:31,2023-12-25,154.0,2023-12,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,582.64
+C066,Home Appliances,353.84,2024-01-17 08:01:58,2024-01-17,22.0,2024-01,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",161.39
+C066,Home Appliances,634.13,2024-07-27 06:34:03,2024-07-27,191.0,2024-07,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",441.68
+C066,Clothing,756.03,2024-12-09 07:54:47,2024-12-09,135.0,2024-12,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,732.04
+C066,Clothing,930.35,2024-12-14 21:33:28,2024-12-14,5.0,2024-12,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,906.36
+C067,Sports,637.36,2023-02-04 22:56:09,2023-02-04,,2023-02,2023,Franklin Sports Spin N Putt Golf Game,589.6800000000001
+C067,Toys,32.11,2023-05-16 17:15:24,2023-05-16,100.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",8.120000000000001
+C067,Beauty,46.28,2023-07-18 08:26:31,2023-07-18,62.0,2023-07,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",30.28
+C067,Electronics,774.78,2023-08-12 11:00:36,2023-08-12,25.0,2023-08,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),770.79
+C067,Clothing,654.89,2023-08-18 11:43:52,2023-08-18,6.0,2023-08,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,630.9
+C067,Sports,716.66,2023-08-21 22:28:34,2023-08-21,3.0,2023-08,2023,Franklin Sports Spin N Putt Golf Game,668.98
+C067,Books,149.78,2023-09-08 04:37:24,2023-09-08,17.0,2023-09,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,18.789999999999992
+C067,Sports,228.91,2023-09-25 17:34:27,2023-09-25,17.0,2023-09,2023,Franklin Sports Spin N Putt Golf Game,181.23
+C067,Beauty,887.35,2023-11-30 18:20:06,2023-11-30,66.0,2023-11,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",871.35
+C067,Electronics,576.51,2023-12-08 13:32:22,2023-12-08,7.0,2023-12,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),572.52
+C067,Books,372.12,2024-02-12 17:24:05,2024-02-12,66.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,241.13
+C067,Sports,257.71,2024-05-03 11:48:34,2024-05-03,80.0,2024-05,2024,Franklin Sports Spin N Putt Golf Game,210.02999999999997
+C067,Books,105.78,2024-09-04 08:45:14,2024-09-04,123.0,2024-09,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-25.210000000000008
+C067,Sports,756.37,2024-09-24 14:59:50,2024-09-24,20.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,708.69
+C067,Home Appliances,714.8,2024-09-24 20:55:20,2024-09-24,0.0,2024-09,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",522.3499999999999
+C068,Clothing,693.24,2023-03-26 18:34:49,2023-03-26,,2023-03,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,669.25
+C068,Electronics,208.23,2023-04-04 23:49:20,2023-04-04,9.0,2023-04,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),204.23999999999998
+C068,Clothing,449.2,2023-06-13 03:05:40,2023-06-13,69.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,425.21
+C068,Clothing,123.53,2023-12-22 05:55:05,2023-12-22,192.0,2023-12,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,99.54
+C068,Beauty,398.65,2024-02-23 21:32:35,2024-02-23,63.0,2024-02,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",382.65
+C068,Home Appliances,82.62,2024-02-25 20:56:24,2024-02-25,1.0,2024-02,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-109.82999999999998
+C068,Beauty,120.56,2024-04-26 06:36:24,2024-04-26,60.0,2024-04,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",104.56
+C068,Clothing,464.55,2024-06-08 18:41:15,2024-06-08,43.0,2024-06,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,440.56
+C068,Electronics,31.71,2024-08-09 22:59:59,2024-08-09,62.0,2024-08,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),27.72
+C069,Sports,605.83,2023-06-16 05:45:28,2023-06-16,,2023-06,2023,Franklin Sports Spin N Putt Golf Game,558.1500000000001
+C069,Books,449.99,2023-10-01 19:01:40,2023-10-01,107.0,2023-10,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,319.0
+C069,Sports,774.9,2023-11-04 00:42:36,2023-11-04,33.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,727.22
+C069,Electronics,700.1,2023-11-20 22:36:09,2023-11-20,16.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),696.11
+C069,Sports,191.77,2023-11-27 09:40:14,2023-11-27,6.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,144.09
+C069,Books,432.48,2024-01-07 17:29:44,2024-01-07,41.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,301.49
+C069,Toys,579.49,2024-02-18 06:53:58,2024-02-18,41.0,2024-02,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",555.5
+C069,Home Appliances,514.63,2024-08-17 12:38:52,2024-08-17,181.0,2024-08,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",322.18
+C069,Clothing,768.51,2024-11-13 01:02:28,2024-11-13,87.0,2024-11,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,744.52
+C070,Electronics,73.52,2023-03-18 01:02:53,2023-03-18,,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),69.53
+C070,Books,700.53,2023-04-04 02:00:30,2023-04-04,17.0,2023-04,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,569.54
+C070,Home Appliances,532.86,2023-04-23 18:13:09,2023-04-23,19.0,2023-04,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",340.41
+C070,Books,639.22,2023-07-10 04:14:18,2023-07-10,77.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,508.23
+C070,Books,631.07,2023-11-20 01:37:47,2023-11-20,132.0,2023-11,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,500.08000000000004
+C070,Beauty,261.46,2023-12-08 18:39:46,2023-12-08,18.0,2023-12,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",245.45999999999998
+C070,Clothing,835.4,2024-01-13 21:04:34,2024-01-13,36.0,2024-01,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,811.41
+C070,Books,355.28,2024-04-15 11:31:44,2024-04-15,92.0,2024-04,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,224.28999999999996
+C070,Home Appliances,802.66,2024-05-05 17:10:00,2024-05-05,20.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",610.21
+C071,Clothing,591.21,2023-02-08 01:49:26,2023-02-08,,2023-02,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,567.22
+C071,Sports,729.87,2023-06-29 06:27:13,2023-06-29,141.0,2023-06,2023,Franklin Sports Spin N Putt Golf Game,682.19
+C071,Sports,965.69,2023-07-26 16:09:40,2023-07-26,27.0,2023-07,2023,Franklin Sports Spin N Putt Golf Game,918.0100000000001
+C071,Clothing,775.01,2023-09-13 16:15:38,2023-09-13,49.0,2023-09,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,751.02
+C071,Sports,366.08,2023-10-31 11:52:05,2023-10-31,47.0,2023-10,2023,Franklin Sports Spin N Putt Golf Game,318.4
+C071,Beauty,797.61,2024-03-31 11:11:58,2024-03-31,151.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",781.61
+C071,Clothing,43.94,2024-09-17 19:12:09,2024-09-17,170.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,19.95
+C071,Clothing,345.25,2024-09-20 13:53:48,2024-09-20,2.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,321.26
+C071,Electronics,820.42,2024-11-17 19:23:33,2024-11-17,58.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),816.43
+C072,Toys,103.94,2023-02-27 01:51:53,2023-02-27,,2023-02,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",79.95
+C072,Toys,806.68,2023-03-10 07:41:41,2023-03-10,11.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",782.6899999999999
+C072,Clothing,11.81,2023-06-30 01:43:24,2023-06-30,111.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,-12.179999999999998
+C072,Books,317.79,2023-07-04 07:34:46,2023-07-04,4.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,186.8
+C072,Electronics,148.88,2023-10-04 04:51:20,2023-10-04,91.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),144.89
+C072,Books,393.87,2023-11-23 07:53:51,2023-11-23,50.0,2023-11,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,262.88
+C072,Clothing,422.18,2024-04-15 14:34:08,2024-04-15,144.0,2024-04,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,398.19
+C072,Sports,639.67,2024-09-25 14:22:36,2024-09-25,162.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,591.99
+C072,Sports,780.79,2024-12-20 08:23:58,2024-12-20,85.0,2024-12,2024,Franklin Sports Spin N Putt Golf Game,733.11
+C073,Clothing,25.7,2023-01-10 18:41:22,2023-01-10,,2023-01,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,1.7100000000000009
+C073,Clothing,487.83,2023-02-24 13:24:02,2023-02-24,44.0,2023-02,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,463.84
+C073,Beauty,897.89,2023-03-31 20:49:23,2023-03-31,35.0,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",881.89
+C073,Home Appliances,208.08,2023-08-06 00:06:11,2023-08-06,127.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",15.630000000000024
+C073,Sports,17.12,2024-05-13 00:26:32,2024-05-13,281.0,2024-05,2024,Franklin Sports Spin N Putt Golf Game,-30.56
+C073,Electronics,51.47,2024-09-06 13:34:53,2024-09-06,116.0,2024-09,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),47.48
+C073,Clothing,136.44,2024-10-09 10:17:56,2024-10-09,32.0,2024-10,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,112.45
+C073,Books,560.78,2024-12-04 21:07:09,2024-12-04,56.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,429.78999999999996
+C073,Electronics,216.68,2024-12-16 21:18:58,2024-12-16,12.0,2024-12,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),212.69
+C074,Books,109.48,2023-05-28 01:20:37,2023-05-28,,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-21.510000000000005
+C074,Sports,854.42,2023-06-04 08:56:07,2023-06-04,7.0,2023-06,2023,Franklin Sports Spin N Putt Golf Game,806.74
+C074,Toys,965.11,2023-07-29 20:14:37,2023-07-29,55.0,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",941.12
+C074,Sports,729.93,2023-08-21 19:51:12,2023-08-21,22.0,2023-08,2023,Franklin Sports Spin N Putt Golf Game,682.25
+C074,Electronics,648.67,2023-10-27 17:19:02,2023-10-27,66.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),644.68
+C074,Toys,899.39,2023-11-05 23:43:49,2023-11-05,9.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",875.4
+C074,Home Appliances,103.65,2024-05-05 01:47:40,2024-05-05,181.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-88.79999999999998
+C074,Home Appliances,15.26,2024-07-07 04:42:15,2024-07-07,63.0,2024-07,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-177.19
+C074,Toys,694.94,2024-07-24 12:23:45,2024-07-24,17.0,2024-07,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",670.95
+C074,Clothing,506.4,2024-09-26 17:35:22,2024-09-26,64.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,482.40999999999997
+C074,Electronics,94.55,2024-11-14 15:58:14,2024-11-14,48.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),90.56
+C074,Books,538.21,2024-12-07 15:46:02,2024-12-07,22.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,407.22
+C075,Beauty,381.09,2023-01-01 13:22:38,2023-01-01,,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",365.09
+C075,Toys,650.29,2023-01-14 00:06:48,2023-01-14,12.0,2023-01,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",626.3
+C075,Home Appliances,796.73,2023-05-25 19:29:21,2023-05-25,131.0,2023-05,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",604.28
+C075,Beauty,511.79,2023-07-12 10:43:58,2023-07-12,47.0,2023-07,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",495.79
+C075,Toys,657.87,2023-12-16 00:45:39,2023-12-16,156.0,2023-12,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",633.88
+C075,Home Appliances,12.29,2024-01-17 11:36:05,2024-01-17,32.0,2024-01,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-180.16
+C075,Toys,148.93,2024-02-11 19:59:38,2024-02-11,25.0,2024-02,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",124.94000000000001
+C075,Books,163.59,2024-02-19 15:59:23,2024-02-19,7.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,32.599999999999994
+C075,Electronics,908.56,2024-03-14 13:33:27,2024-03-14,23.0,2024-03,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),904.5699999999999
+C075,Beauty,819.04,2024-04-27 05:57:32,2024-04-27,43.0,2024-04,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",803.04
+C075,Books,377.92,2024-10-03 21:08:03,2024-10-03,159.0,2024-10,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,246.93
+C075,Clothing,775.85,2024-10-07 04:10:29,2024-10-07,3.0,2024-10,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,751.86
+C076,Sports,852.83,2023-01-11 12:32:36,2023-01-11,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,805.1500000000001
+C076,Beauty,525.33,2023-01-23 02:29:18,2023-01-23,11.0,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",509.33000000000004
+C076,Sports,711.63,2023-04-18 21:26:10,2023-04-18,85.0,2023-04,2023,Franklin Sports Spin N Putt Golf Game,663.95
+C076,Books,490.39,2023-05-27 05:07:54,2023-05-27,38.0,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,359.4
+C076,Home Appliances,229.28,2023-06-30 16:03:55,2023-06-30,34.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",36.83000000000001
+C076,Beauty,867.37,2023-09-21 23:41:46,2023-09-21,83.0,2023-09,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",851.37
+C076,Books,735.01,2024-01-07 15:57:41,2024-01-07,107.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,604.02
+C076,Beauty,797.82,2024-02-04 09:03:20,2024-02-04,27.0,2024-02,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",781.82
+C076,Clothing,159.42,2024-04-25 05:03:38,2024-04-25,80.0,2024-04,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,135.42999999999998
+C076,Toys,626.85,2024-05-17 18:05:28,2024-05-17,22.0,2024-05,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",602.86
+C076,Toys,110.93,2024-06-04 08:37:25,2024-06-04,17.0,2024-06,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",86.94000000000001
+C076,Sports,657.76,2024-06-17 10:19:07,2024-06-17,13.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,610.08
+C076,Home Appliances,755.68,2024-06-21 19:46:32,2024-06-21,4.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",563.23
+C076,Toys,203.26,2024-11-15 12:23:08,2024-11-15,146.0,2024-11,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",179.26999999999998
+C076,Toys,494.53,2024-11-29 01:07:06,2024-11-29,13.0,2024-11,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",470.53999999999996
+C077,Toys,858.61,2023-01-19 08:46:58,2023-01-19,,2023-01,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",834.62
+C077,Toys,641.2,2023-03-05 01:31:12,2023-03-05,44.0,2023-03,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",617.21
+C077,Clothing,813.74,2023-04-28 13:32:16,2023-04-28,54.0,2023-04,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,789.75
+C077,Beauty,132.29,2023-10-20 20:44:04,2023-10-20,175.0,2023-10,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",116.28999999999999
+C077,Beauty,70.9,2024-02-08 11:27:35,2024-02-08,110.0,2024-02,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",54.900000000000006
+C077,Sports,550.63,2024-03-08 14:49:44,2024-03-08,29.0,2024-03,2024,Franklin Sports Spin N Putt Golf Game,502.95
+C077,Beauty,771.34,2024-03-08 19:31:23,2024-03-08,0.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",755.34
+C077,Toys,714.15,2024-08-12 11:33:46,2024-08-12,156.0,2024-08,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",690.16
+C077,Clothing,490.05,2024-11-27 10:14:07,2024-11-27,106.0,2024-11,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,466.06
+C078,Sports,343.69,2023-03-18 23:43:34,2023-03-18,,2023-03,2023,Franklin Sports Spin N Putt Golf Game,296.01
+C078,Toys,67.29,2023-05-15 19:09:01,2023-05-15,57.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",43.30000000000001
+C078,Home Appliances,202.42,2023-08-03 14:17:49,2023-08-03,79.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",9.969999999999999
+C078,Beauty,755.22,2023-09-23 17:15:44,2023-09-23,51.0,2023-09,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",739.22
+C078,Toys,368.65,2023-10-01 08:21:47,2023-10-01,7.0,2023-10,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",344.65999999999997
+C078,Electronics,634.58,2023-10-30 01:03:13,2023-10-30,28.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),630.59
+C078,Toys,850.59,2024-01-02 02:59:34,2024-01-02,64.0,2024-01,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",826.6
+C078,Clothing,566.44,2024-07-13 21:08:53,2024-07-13,193.0,2024-07,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,542.45
+C078,Books,162.22,2024-12-05 14:14:17,2024-12-05,144.0,2024-12,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,31.22999999999999
+C079,Clothing,452.01,2023-05-04 01:43:35,2023-05-04,,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,428.02
+C079,Books,609.38,2023-06-04 07:21:05,2023-06-04,31.0,2023-06,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,478.39
+C079,Home Appliances,191.54,2023-07-05 13:23:30,2023-07-05,31.0,2023-07,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-0.9099999999999966
+C079,Books,956.19,2023-10-15 09:23:07,2023-10-15,101.0,2023-10,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,825.2
+C079,Sports,530.51,2023-12-05 19:09:41,2023-12-05,51.0,2023-12,2023,Franklin Sports Spin N Putt Golf Game,482.83
+C079,Books,365.56,2024-01-31 18:39:39,2024-01-31,56.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,234.57
+C079,Electronics,558.78,2024-05-06 20:08:39,2024-05-06,96.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),554.79
+C079,Beauty,895.49,2024-07-14 11:08:43,2024-07-14,68.0,2024-07,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",879.49
+C079,Electronics,503.27,2024-09-24 18:50:58,2024-09-24,72.0,2024-09,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),499.28
+C079,Electronics,268.16,2024-11-24 18:57:31,2024-11-24,61.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),264.17
+C079,Beauty,775.83,2024-12-03 15:52:45,2024-12-03,8.0,2024-12,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",759.83
+C079,Clothing,729.77,2024-12-12 06:42:20,2024-12-12,8.0,2024-12,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,705.78
+C080,Books,22.57,2023-05-14 04:54:45,2023-05-14,,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-108.42000000000002
+C080,Sports,610.41,2023-06-08 09:57:09,2023-06-08,25.0,2023-06,2023,Franklin Sports Spin N Putt Golf Game,562.73
+C080,Clothing,776.5,2023-06-29 09:09:46,2023-06-29,20.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,752.51
+C080,Beauty,489.23,2024-01-12 00:09:31,2024-01-12,196.0,2024-01,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",473.23
+C080,Sports,19.56,2024-01-22 18:31:13,2024-01-22,10.0,2024-01,2024,Franklin Sports Spin N Putt Golf Game,-28.12
+C080,Electronics,669.77,2024-11-16 22:17:27,2024-11-16,299.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),665.78
+C081,Toys,37.55,2023-04-06 22:15:52,2023-04-06,,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",13.559999999999999
+C081,Toys,142.55,2023-05-21 07:37:07,2023-05-21,44.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",118.56000000000002
+C081,Clothing,553.52,2023-08-03 05:25:48,2023-08-03,73.0,2023-08,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,529.53
+C081,Electronics,913.68,2023-09-06 06:15:19,2023-09-06,34.0,2023-09,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),909.6899999999999
+C081,Home Appliances,51.91,2023-12-05 08:30:07,2023-12-05,90.0,2023-12,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-140.54
+C081,Clothing,324.45,2024-01-11 19:01:09,2024-01-11,37.0,2024-01,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,300.46
+C081,Beauty,525.32,2024-01-18 05:32:55,2024-01-18,6.0,2024-01,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",509.32000000000005
+C081,Beauty,436.07,2024-02-25 09:07:11,2024-02-25,38.0,2024-02,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",420.07
+C081,Books,773.4,2024-03-23 06:34:37,2024-03-23,26.0,2024-03,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,642.41
+C081,Home Appliances,620.26,2024-06-21 04:41:03,2024-06-21,89.0,2024-06,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",427.81
+C081,Toys,38.09,2024-07-15 00:50:00,2024-07-15,23.0,2024-07,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",14.100000000000005
+C081,Home Appliances,407.07,2024-07-28 00:14:15,2024-07-28,12.0,2024-07,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",214.62
+C081,Books,654.82,2024-09-01 22:45:58,2024-09-01,35.0,2024-09,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,523.83
+C081,Beauty,176.89,2024-12-21 15:44:48,2024-12-21,110.0,2024-12,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",160.89
+C082,Beauty,142.78,2023-05-04 16:01:03,2023-05-04,,2023-05,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",126.78
+C082,Beauty,246.36,2023-08-26 13:05:41,2023-08-26,113.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",230.36
+C082,Beauty,577.94,2023-08-30 00:13:34,2023-08-30,3.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",561.94
+C082,Electronics,385.33,2023-11-25 04:37:48,2023-11-25,87.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),381.34
+C082,Beauty,528.05,2024-12-10 16:28:20,2024-12-10,381.0,2024-12,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",512.05
+C083,Sports,663.44,2023-05-01 16:55:51,2023-05-01,,2023-05,2023,Franklin Sports Spin N Putt Golf Game,615.7600000000001
+C083,Toys,820.84,2023-05-07 07:45:52,2023-05-07,5.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",796.85
+C083,Sports,973.24,2024-01-15 20:49:23,2024-01-15,253.0,2024-01,2024,Franklin Sports Spin N Putt Golf Game,925.5600000000001
+C083,Home Appliances,463.37,2024-04-22 02:54:55,2024-04-22,97.0,2024-04,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",270.92
+C084,Beauty,173.71,2023-01-24 12:53:41,2023-01-24,,2023-01,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",157.71
+C084,Books,513.36,2023-03-31 07:33:25,2023-03-31,65.0,2023-03,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,382.37
+C084,Clothing,21.59,2023-05-05 02:42:23,2023-05-05,34.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,-2.3999999999999986
+C084,Beauty,148.41,2023-05-28 19:00:01,2023-05-28,23.0,2023-05,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",132.41
+C084,Toys,885.41,2023-08-02 14:53:32,2023-08-02,65.0,2023-08,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",861.42
+C084,Sports,434.41,2023-09-19 16:48:21,2023-09-19,48.0,2023-09,2023,Franklin Sports Spin N Putt Golf Game,386.73
+C084,Electronics,689.59,2023-09-29 03:46:19,2023-09-29,9.0,2023-09,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),685.6
+C084,Electronics,54.09,2023-10-27 20:29:51,2023-10-27,28.0,2023-10,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),50.1
+C084,Toys,544.33,2024-02-01 22:46:56,2024-02-01,97.0,2024-02,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",520.34
+C084,Clothing,608.29,2024-11-15 23:12:08,2024-11-15,288.0,2024-11,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,584.3
+C084,Electronics,646.41,2024-11-24 17:21:49,2024-11-24,8.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),642.42
+C085,Beauty,230.6,2023-02-17 09:34:02,2023-02-17,,2023-02,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",214.6
+C085,Toys,868.47,2023-02-23 18:56:23,2023-02-23,6.0,2023-02,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",844.48
+C085,Sports,340.26,2023-04-22 20:07:44,2023-04-22,58.0,2023-04,2023,Franklin Sports Spin N Putt Golf Game,292.58
+C085,Electronics,514.63,2023-06-24 07:15:42,2023-06-24,62.0,2023-06,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),510.64
+C085,Books,480.68,2023-07-08 09:55:25,2023-07-08,14.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,349.69
+C085,Books,739.56,2023-12-17 03:55:23,2023-12-17,161.0,2023-12,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,608.5699999999999
+C085,Toys,802.86,2024-01-26 13:24:53,2024-01-26,40.0,2024-01,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",778.87
+C085,Books,547.2,2024-02-28 14:11:07,2024-02-28,33.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,416.21000000000004
+C085,Beauty,490.87,2024-06-13 01:37:57,2024-06-13,105.0,2024-06,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",474.87
+C085,Toys,729.61,2024-08-20 13:00:37,2024-08-20,68.0,2024-08,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",705.62
+C085,Electronics,234.93,2024-08-28 15:26:44,2024-08-28,8.0,2024-08,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),230.94
+C085,Sports,883.5,2024-10-21 03:14:44,2024-10-21,53.0,2024-10,2024,Franklin Sports Spin N Putt Golf Game,835.82
+C085,Books,492.76,2024-11-03 11:55:22,2024-11-03,13.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,361.77
+C086,Beauty,879.28,2023-03-16 16:39:20,2023-03-16,,2023-03,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",863.28
+C086,Clothing,629.49,2023-05-19 11:41:22,2023-05-19,63.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,605.5
+C086,Electronics,326.97,2023-06-15 07:54:44,2023-06-15,26.0,2023-06,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),322.98
+C086,Books,696.7,2023-08-01 17:05:36,2023-08-01,47.0,2023-08,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,565.71
+C086,Home Appliances,409.5,2023-08-26 12:33:31,2023-08-26,24.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",217.05
+C086,Toys,969.93,2023-09-28 06:51:45,2023-09-28,32.0,2023-09,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",945.9399999999999
+C086,Toys,227.15,2024-09-16 03:14:53,2024-09-16,353.0,2024-09,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",203.16
+C086,Sports,941.15,2024-09-30 13:12:06,2024-09-30,14.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,893.47
+C086,Beauty,973.96,2024-10-24 01:51:53,2024-10-24,23.0,2024-10,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",957.96
+C087,Books,655.35,2023-01-14 05:31:40,2023-01-14,,2023-01,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,524.36
+C087,Books,774.66,2023-03-09 01:42:08,2023-03-09,53.0,2023-03,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,643.67
+C087,Home Appliances,969.93,2023-04-24 17:41:35,2023-04-24,46.0,2023-04,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",777.48
+C087,Clothing,42.04,2023-05-04 03:05:46,2023-05-04,9.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,18.05
+C087,Home Appliances,763.31,2023-06-23 05:25:04,2023-06-23,50.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",570.8599999999999
+C087,Clothing,714.14,2023-06-25 07:35:02,2023-06-25,2.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,690.15
+C087,Toys,992.09,2023-08-24 15:55:06,2023-08-24,60.0,2023-08,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",968.1
+C087,Sports,420.85,2023-10-06 15:42:25,2023-10-06,42.0,2023-10,2023,Franklin Sports Spin N Putt Golf Game,373.17
+C087,Sports,39.34,2023-12-17 05:28:52,2023-12-17,71.0,2023-12,2023,Franklin Sports Spin N Putt Golf Game,-8.339999999999996
+C087,Beauty,758.67,2024-05-30 01:16:54,2024-05-30,164.0,2024-05,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",742.67
+C087,Clothing,510.37,2024-06-19 20:33:24,2024-06-19,20.0,2024-06,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,486.38
+C087,Books,184.67,2024-10-18 11:40:20,2024-10-18,120.0,2024-10,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,53.67999999999998
+C087,Books,588.65,2024-10-23 13:33:39,2024-10-23,5.0,2024-10,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,457.65999999999997
+C088,Electronics,986.47,2023-04-11 06:00:45,2023-04-11,,2023-04,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),982.48
+C088,Home Appliances,930.41,2023-06-09 05:41:56,2023-06-09,58.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",737.96
+C088,Clothing,830.77,2023-06-10 13:01:34,2023-06-10,1.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,806.78
+C088,Clothing,103.28,2023-06-30 23:00:48,2023-06-30,20.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,79.29
+C088,Home Appliances,569.28,2023-08-26 19:44:17,2023-08-26,56.0,2023-08,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",376.83
+C088,Clothing,69.06,2023-10-18 14:28:58,2023-10-18,52.0,2023-10,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,45.07000000000001
+C088,Books,66.06,2023-10-26 05:14:46,2023-10-26,7.0,2023-10,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-64.93
+C088,Electronics,371.9,2024-05-31 21:39:43,2024-05-31,218.0,2024-05,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),367.90999999999997
+C088,Toys,631.44,2024-06-24 21:52:34,2024-06-24,24.0,2024-06,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",607.45
+C089,Electronics,440.9,2023-08-06 00:12:53,2023-08-06,,2023-08,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),436.90999999999997
+C089,Electronics,899.92,2023-08-13 10:38:00,2023-08-13,7.0,2023-08,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),895.93
+C089,Beauty,434.05,2023-08-29 14:28:13,2023-08-29,16.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",418.05
+C089,Beauty,890.25,2023-09-20 19:44:20,2023-09-20,22.0,2023-09,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",874.25
+C089,Toys,677.4,2023-11-16 19:53:29,2023-11-16,57.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",653.41
+C089,Toys,471.08,2023-11-25 02:59:02,2023-11-25,8.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",447.09
+C089,Toys,967.18,2024-03-17 11:32:11,2024-03-17,113.0,2024-03,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",943.1899999999999
+C089,Toys,972.68,2024-03-29 07:23:04,2024-03-29,11.0,2024-03,2024,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",948.6899999999999
+C089,Sports,605.37,2024-04-16 07:43:58,2024-04-16,18.0,2024-04,2024,Franklin Sports Spin N Putt Golf Game,557.69
+C089,Sports,640.04,2024-09-08 19:16:20,2024-09-08,145.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,592.36
+C089,Home Appliances,244.65,2024-09-26 03:01:15,2024-09-26,17.0,2024-09,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",52.20000000000002
+C090,Beauty,385.01,2023-02-28 18:18:10,2023-02-28,,2023-02,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",369.01
+C090,Clothing,419.85,2023-05-17 08:00:27,2023-05-17,77.0,2023-05,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,395.86
+C090,Home Appliances,911.79,2023-05-31 21:46:44,2023-05-31,14.0,2023-05,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",719.3399999999999
+C090,Beauty,658.66,2023-06-16 02:37:52,2023-06-16,15.0,2023-06,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",642.66
+C090,Beauty,460.37,2023-06-28 04:27:58,2023-06-28,12.0,2023-06,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",444.37
+C090,Electronics,607.32,2023-09-28 11:17:07,2023-09-28,92.0,2023-09,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),603.33
+C090,Clothing,586.44,2023-11-20 05:30:07,2023-11-20,52.0,2023-11,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,562.45
+C090,Books,847.58,2023-12-30 00:10:52,2023-12-30,39.0,2023-12,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,716.59
+C090,Clothing,138.14,2024-01-14 07:32:26,2024-01-14,15.0,2024-01,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,114.14999999999999
+C090,Home Appliances,505.93,2024-03-04 20:09:48,2024-03-04,50.0,2024-03,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",313.48
+C090,Sports,599.92,2024-06-05 14:05:21,2024-06-05,92.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,552.24
+C090,Sports,738.61,2024-07-15 09:00:59,2024-07-15,39.0,2024-07,2024,Franklin Sports Spin N Putt Golf Game,690.9300000000001
+C091,Home Appliances,561.04,2023-03-02 13:47:13,2023-03-02,,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",368.59
+C091,Beauty,772.22,2023-06-30 12:24:38,2023-06-30,119.0,2023-06,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",756.22
+C091,Home Appliances,936.83,2023-11-07 03:33:03,2023-11-07,129.0,2023-11,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",744.3800000000001
+C091,Electronics,976.78,2023-11-18 10:53:59,2023-11-18,11.0,2023-11,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),972.79
+C091,Books,994.63,2024-02-09 03:19:17,2024-02-09,82.0,2024-02,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,863.64
+C091,Clothing,636.27,2024-03-12 16:28:23,2024-03-12,32.0,2024-03,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,612.28
+C091,Clothing,378.4,2024-04-12 05:18:33,2024-04-12,30.0,2024-04,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,354.40999999999997
+C091,Books,890.27,2024-10-22 12:48:56,2024-10-22,193.0,2024-10,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,759.28
+C092,Electronics,177.98,2023-03-04 06:57:23,2023-03-04,,2023-03,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),173.98999999999998
+C092,Clothing,444.82,2023-06-04 16:26:35,2023-06-04,92.0,2023-06,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,420.83
+C092,Books,848.29,2023-07-24 07:09:28,2023-07-24,49.0,2023-07,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,717.3
+C092,Clothing,535.11,2023-11-09 12:48:50,2023-11-09,108.0,2023-11,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,511.12
+C092,Beauty,276.44,2024-02-13 01:13:01,2024-02-13,95.0,2024-02,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",260.44
+C092,Beauty,424.97,2024-03-09 07:51:53,2024-03-09,25.0,2024-03,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",408.97
+C092,Books,225.95,2024-11-08 10:47:50,2024-11-08,244.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,94.95999999999998
+C092,Books,815.66,2024-11-14 02:01:38,2024-11-14,5.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,684.67
+C093,Books,664.9,2023-05-09 02:50:14,2023-05-09,,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,533.91
+C093,Books,511.01,2023-05-22 06:14:03,2023-05-22,13.0,2023-05,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,380.02
+C093,Clothing,983.36,2023-07-09 01:59:05,2023-07-09,47.0,2023-07,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,959.37
+C093,Books,50.47,2023-10-28 13:34:51,2023-10-28,111.0,2023-10,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-80.52000000000001
+C093,Sports,941.27,2023-11-06 05:22:38,2023-11-06,8.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,893.59
+C093,Home Appliances,856.4,2023-11-09 17:45:17,2023-11-09,3.0,2023-11,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",663.95
+C093,Clothing,711.73,2024-02-11 17:53:16,2024-02-11,94.0,2024-02,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,687.74
+C093,Electronics,606.93,2024-04-06 14:14:18,2024-04-06,54.0,2024-04,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),602.9399999999999
+C093,Books,866.05,2024-05-26 23:55:13,2024-05-26,50.0,2024-05,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,735.06
+C093,Home Appliances,852.34,2024-08-06 22:20:55,2024-08-06,71.0,2024-08,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",659.8900000000001
+C094,Beauty,118.38,2023-11-18 01:34:09,2023-11-18,,2023-11,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",102.38
+C094,Beauty,721.58,2024-04-09 13:47:33,2024-04-09,143.0,2024-04,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",705.58
+C094,Books,186.84,2024-04-15 09:33:51,2024-04-15,5.0,2024-04,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,55.849999999999994
+C094,Books,222.48,2024-04-19 11:42:18,2024-04-19,4.0,2024-04,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,91.48999999999998
+C094,Beauty,898.47,2024-09-07 22:03:22,2024-09-07,141.0,2024-09,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",882.47
+C094,Beauty,359.08,2024-09-13 23:47:38,2024-09-13,6.0,2024-09,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",343.08
+C094,Beauty,615.28,2024-10-07 18:18:00,2024-10-07,23.0,2024-10,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",599.28
+C094,Clothing,711.28,2024-11-24 13:28:57,2024-11-24,47.0,2024-11,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,687.29
+C095,Toys,655.65,2023-04-08 10:26:21,2023-04-08,,2023-04,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",631.66
+C095,Toys,725.92,2023-05-02 13:50:44,2023-05-02,24.0,2023-05,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",701.93
+C095,Home Appliances,180.76,2023-06-25 10:27:35,2023-06-25,53.0,2023-06,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",-11.689999999999998
+C095,Toys,70.64,2023-07-28 23:01:32,2023-07-28,33.0,2023-07,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",46.650000000000006
+C095,Books,669.11,2023-10-01 21:36:40,2023-10-01,64.0,2023-10,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,538.12
+C095,Beauty,107.98,2023-11-27 00:39:38,2023-11-27,56.0,2023-11,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",91.98
+C095,Sports,115.87,2023-12-27 05:56:46,2023-12-27,30.0,2023-12,2023,Franklin Sports Spin N Putt Golf Game,68.19
+C095,Books,239.05,2024-01-09 00:47:36,2024-01-09,12.0,2024-01,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,108.06
+C095,Sports,645.09,2024-01-14 12:03:07,2024-01-14,5.0,2024-01,2024,Franklin Sports Spin N Putt Golf Game,597.4100000000001
+C095,Books,105.89,2024-04-07 12:43:20,2024-04-07,84.0,2024-04,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,-25.10000000000001
+C095,Home Appliances,629.15,2024-05-17 01:30:25,2024-05-17,39.0,2024-05,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",436.7
+C095,Sports,973.26,2024-06-23 03:44:44,2024-06-23,37.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,925.58
+C095,Sports,415.91,2024-09-18 10:44:00,2024-09-18,87.0,2024-09,2024,Franklin Sports Spin N Putt Golf Game,368.23
+C095,Home Appliances,377.99,2024-11-11 04:57:57,2024-11-11,53.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",185.54000000000002
+C095,Electronics,798.52,2024-12-31 20:46:56,2024-12-31,50.0,2024-12,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),794.53
+C096,Home Appliances,285.0,2023-04-06 14:31:09,2023-04-06,,2023-04,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",92.55000000000001
+C096,Beauty,724.0,2023-08-26 16:56:06,2023-08-26,142.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",708.0
+C096,Toys,209.15,2023-11-05 12:15:07,2023-11-05,70.0,2023-11,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",185.16
+C096,Sports,556.93,2023-11-15 14:36:14,2023-11-15,10.0,2023-11,2023,Franklin Sports Spin N Putt Golf Game,509.24999999999994
+C096,Clothing,524.11,2023-12-10 03:11:16,2023-12-10,24.0,2023-12,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,500.12
+C096,Clothing,860.28,2024-06-11 07:46:28,2024-06-11,184.0,2024-06,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,836.29
+C096,Electronics,883.82,2024-08-17 13:16:35,2024-08-17,67.0,2024-08,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),879.83
+C096,Home Appliances,905.43,2024-08-27 03:13:28,2024-08-27,9.0,2024-08,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",712.98
+C097,Books,574.98,2023-01-01 13:33:14,2023-01-01,,2023-01,2023,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,443.99
+C097,Electronics,703.66,2023-01-17 01:19:16,2023-01-17,15.0,2023-01,2023,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),699.67
+C097,Clothing,829.91,2024-09-16 14:05:23,2024-09-16,608.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,805.92
+C098,Beauty,269.83,2023-05-17 06:46:40,2023-05-17,,2023-05,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",253.82999999999998
+C098,Beauty,303.37,2023-09-09 05:10:58,2023-09-09,114.0,2023-09,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",287.37
+C098,Home Appliances,595.68,2023-10-23 08:17:07,2023-10-23,44.0,2023-10,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",403.22999999999996
+C098,Sports,186.2,2024-02-21 11:29:54,2024-02-21,121.0,2024-02,2024,Franklin Sports Spin N Putt Golf Game,138.51999999999998
+C098,Sports,280.2,2024-06-19 02:52:11,2024-06-19,118.0,2024-06,2024,Franklin Sports Spin N Putt Golf Game,232.51999999999998
+C098,Beauty,848.3,2024-08-23 17:51:52,2024-08-23,65.0,2024-08,2024,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",832.3
+C098,Clothing,757.21,2024-09-09 20:51:27,2024-09-09,17.0,2024-09,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,733.22
+C098,Electronics,443.62,2024-10-03 16:16:48,2024-10-03,23.0,2024-10,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),439.63
+C098,Electronics,448.18,2024-12-24 10:39:20,2024-12-24,81.0,2024-12,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),444.19
+C099,Toys,325.04,2023-06-10 03:48:00,2023-06-10,,2023-06,2023,"Dancing Talking Cactus Baby Toys Boy Girl Gifts, Singing Mimicking Recording Toys Repeats What You Say, Comes with 120 English Songs Singing Talking Musical Toys",301.05
+C099,Books,717.48,2024-06-20 01:53:16,2024-06-20,375.0,2024-06,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,586.49
+C099,Clothing,533.76,2024-07-13 18:56:59,2024-07-13,23.0,2024-07,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,509.77
+C099,Electronics,263.81,2024-11-06 18:53:59,2024-11-06,115.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),259.82
+C099,Electronics,304.43,2024-11-17 01:32:15,2024-11-17,10.0,2024-11,2024,ASURION 2 Year Electronics Protection Plan ($30 - $39.99),300.44
+C099,Books,207.18,2024-11-24 16:26:42,2024-11-24,7.0,2024-11,2024,Medicube Age-R Booster H - Korean No.1 Skin Care Device - Facial Glow Booster for Maximizing and Boosting Skin Care Absorption - Needle Free,76.19
+C099,Clothing,581.06,2024-12-07 20:05:34,2024-12-07,13.0,2024-12,2024,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,557.0699999999999
+C100,Sports,394.13,2023-01-03 15:42:09,2023-01-03,,2023-01,2023,Franklin Sports Spin N Putt Golf Game,346.45
+C100,Home Appliances,471.21,2023-03-04 16:50:27,2023-03-04,60.0,2023-03,2023,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",278.76
+C100,Beauty,980.21,2023-04-29 06:31:31,2023-04-29,55.0,2023-04,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",964.21
+C100,Sports,863.2,2023-07-02 02:50:24,2023-07-02,63.0,2023-07,2023,Franklin Sports Spin N Putt Golf Game,815.5200000000001
+C100,Beauty,79.45,2023-08-16 21:59:56,2023-08-16,45.0,2023-08,2023,"Beauty of Joseon Ground Rice and Honey Glow Mask Pore Sebum Care for Dry Sensitive Skin Korean Skin Care 150ml, 5.07 fl.oz",63.45
+C100,Clothing,720.4,2023-11-28 08:59:15,2023-11-28,103.0,2023-11,2023,Track Pants Women Baggy Pants Y2k Pants Parachute Pants for Women Y2K Clothing,696.41
+C100,Home Appliances,200.26,2024-01-03 20:14:08,2024-01-03,36.0,2024-01,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",7.810000000000002
+C100,Home Appliances,586.59,2024-11-18 23:02:30,2024-11-18,320.0,2024-11,2024,"McCulloch MC1385 Deluxe Canister Steam Cleaner with 23 Accessories, Chemical-Free Pressurized Cleaning for Most Floors, Counters, Appliances, Windows, Autos, and More, 1-(Pack), Black",394.14000000000004
