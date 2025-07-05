@@ -53,19 +53,6 @@ E-commerce Purchase Data Analysis/
 
 ---
 
-## 📈 Sample Visuals
-
-> 📍 Example 1: Top Product Categories  
-![Top Categories](outputs/figures/top_categories.png)
-
-> 📍 Example 2: Hourly Purchase Frequency  
-![Hourly Trend](outputs/figures/hourly_trend.png)
-
-> 📍 Example 3: Interactive Customer Segment Visualization  
-Explore in notebook using Plotly!
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repository:
